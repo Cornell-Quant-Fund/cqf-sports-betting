@@ -1,0 +1,4242 @@
+{
+    "Joel Embiid O*points": [
+        "39.5",
+        "1.75"
+    ],
+    "Joel Embiid U*points": [
+        "39.5",
+        "0.65"
+    ],
+    "Joel Embiid O*period_1_points": [
+        "9.5",
+        "1.0"
+    ],
+    "Joel Embiid U*period_1_points": [
+        "9.5",
+        "1.0"
+    ],
+    "Joel Embiid O*pts_rebs_asts": [
+        "47.5",
+        "1.0"
+    ],
+    "Joel Embiid U*pts_rebs_asts": [
+        "47.5",
+        "1.0"
+    ],
+    "Joel Embiid O*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Joel Embiid U*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Joel Embiid O*rebounds": [
+        "10.0",
+        "1.0"
+    ],
+    "Joel Embiid U*rebounds": [
+        "10.0",
+        "1.0"
+    ],
+    "Joel Embiid O*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Joel Embiid U*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Joel Embiid O*threes": [
+        "1.5",
+        "0.8"
+    ],
+    "Joel Embiid U*threes": [
+        "1.5",
+        "1.2"
+    ],
+    "Joel Embiid O*ptsast": [
+        "38.0",
+        "1.0"
+    ],
+    "Joel Embiid U*ptsast": [
+        "38.0",
+        "1.0"
+    ],
+    "Joel Embiid O*ptsreb": [
+        "42.5",
+        "1.0"
+    ],
+    "Joel Embiid U*ptsreb": [
+        "42.5",
+        "1.0"
+    ],
+    "Joel Embiid O*fantasy_points": [
+        "56.85",
+        "1.0"
+    ],
+    "Joel Embiid U*fantasy_points": [
+        "56.85",
+        "1.0"
+    ],
+    "Joel Embiid O*period_1_pts_rebs_asts": [
+        "13.5",
+        "1.0"
+    ],
+    "Joel Embiid U*period_1_pts_rebs_asts": [
+        "13.5",
+        "1.0"
+    ],
+    "Joel Embiid O*steals": [
+        "1.5",
+        "1.1"
+    ],
+    "Joel Embiid U*steals": [
+        "1.5",
+        "0.85"
+    ],
+    "Joel Embiid O*period_1_rebounds": [
+        "2.5",
+        "0.85"
+    ],
+    "Joel Embiid U*period_1_rebounds": [
+        "2.5",
+        "1.1"
+    ],
+    "Joel Embiid O*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Joel Embiid U*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Joel Embiid O*period_1_2_points": [
+        "16.5",
+        "1.0"
+    ],
+    "Joel Embiid U*period_1_2_points": [
+        "16.5",
+        "1.0"
+    ],
+    "Joel Embiid O*period_1_2_pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Joel Embiid U*period_1_2_pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Joel Embiid O*free_throws_made": [
+        "10.0",
+        "1.0"
+    ],
+    "Joel Embiid U*free_throws_made": [
+        "10.0",
+        "1.0"
+    ],
+    "Joel Embiid O*double_doubles": [
+        "0.5",
+        "0.85"
+    ],
+    "Joel Embiid U*double_doubles": [
+        "0.5",
+        "1.1"
+    ],
+    "Joel Embiid O*turnovers": [
+        "3.5",
+        "1.05"
+    ],
+    "Joel Embiid U*turnovers": [
+        "3.5",
+        "0.95"
+    ],
+    "Joel Embiid O*stlblk": [
+        "2.5",
+        "0.9"
+    ],
+    "Joel Embiid U*stlblk": [
+        "2.5",
+        "1.1"
+    ],
+    "Joel Embiid O*blocks": [
+        "1.5",
+        "1.25"
+    ],
+    "Joel Embiid U*blocks": [
+        "1.5",
+        "0.8"
+    ],
+    "Jalen Brunson O*period_1_points": [
+        "8.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*period_1_points": [
+        "8.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*points": [
+        "39.5",
+        "1.25"
+    ],
+    "Jalen Brunson U*points": [
+        "39.5",
+        "0.75"
+    ],
+    "Jalen Brunson O*pts_rebs_asts": [
+        "46.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*pts_rebs_asts": [
+        "46.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*assists": [
+        "8.0",
+        "1.0"
+    ],
+    "Jalen Brunson U*assists": [
+        "8.0",
+        "1.0"
+    ],
+    "Jalen Brunson O*rebounds": [
+        "4.5",
+        "1.1"
+    ],
+    "Jalen Brunson U*rebounds": [
+        "4.5",
+        "0.9"
+    ],
+    "Jalen Brunson O*rebast": [
+        "12.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*rebast": [
+        "12.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*ptsreb": [
+        "38.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*ptsreb": [
+        "38.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*ptsast": [
+        "42.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*ptsast": [
+        "42.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*period_1_pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*period_1_pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*fantasy_points": [
+        "49.75",
+        "1.0"
+    ],
+    "Jalen Brunson U*fantasy_points": [
+        "49.75",
+        "1.0"
+    ],
+    "Jalen Brunson O*blocks": [
+        "0.5",
+        "2.75"
+    ],
+    "Jalen Brunson O*double_doubles": [
+        "0.5",
+        "1.5"
+    ],
+    "Jalen Brunson U*double_doubles": [
+        "0.5",
+        "0.7"
+    ],
+    "Jalen Brunson O*turnovers": [
+        "3.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*turnovers": [
+        "3.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*period_1_2_pts_rebs_asts": [
+        "23.5",
+        "1.0"
+    ],
+    "Jalen Brunson U*period_1_2_pts_rebs_asts": [
+        "23.5",
+        "1.0"
+    ],
+    "Jalen Brunson O*free_throws_made": [
+        "7.0",
+        "1.0"
+    ],
+    "Jalen Brunson U*free_throws_made": [
+        "7.0",
+        "1.0"
+    ],
+    "Jalen Brunson O*period_1_2_points": [
+        "17.0",
+        "1.0"
+    ],
+    "Jalen Brunson U*period_1_2_points": [
+        "17.0",
+        "1.0"
+    ],
+    "Tyrese Maxey O*points": [
+        "29.5",
+        "1.25"
+    ],
+    "Tyrese Maxey U*points": [
+        "29.5",
+        "0.8"
+    ],
+    "Tyrese Maxey O*period_1_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Tyrese Maxey U*period_1_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Tyrese Maxey O*pts_rebs_asts": [
+        "35.5",
+        "1.0"
+    ],
+    "Tyrese Maxey U*pts_rebs_asts": [
+        "35.5",
+        "1.0"
+    ],
+    "Tyrese Maxey O*assists": [
+        "5.5",
+        "0.85"
+    ],
+    "Tyrese Maxey U*assists": [
+        "5.5",
+        "1.1"
+    ],
+    "Tyrese Maxey O*rebounds": [
+        "4.5",
+        "1.1"
+    ],
+    "Tyrese Maxey U*rebounds": [
+        "4.5",
+        "0.85"
+    ],
+    "Tyrese Maxey O*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Tyrese Maxey U*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Tyrese Maxey O*threes": [
+        "3.0",
+        "1.0"
+    ],
+    "Tyrese Maxey U*threes": [
+        "3.0",
+        "1.0"
+    ],
+    "Tyrese Maxey O*ptsreb": [
+        "30.0",
+        "1.0"
+    ],
+    "Tyrese Maxey U*ptsreb": [
+        "30.0",
+        "1.0"
+    ],
+    "Tyrese Maxey O*ptsast": [
+        "31.5",
+        "1.0"
+    ],
+    "Tyrese Maxey U*ptsast": [
+        "31.5",
+        "1.0"
+    ],
+    "Tyrese Maxey O*fantasy_points": [
+        "41.65",
+        "1.0"
+    ],
+    "Tyrese Maxey U*fantasy_points": [
+        "41.65",
+        "1.0"
+    ],
+    "Tyrese Maxey O*steals": [
+        "0.5",
+        "0.8"
+    ],
+    "Tyrese Maxey U*steals": [
+        "0.5",
+        "1.25"
+    ],
+    "Tyrese Maxey O*period_1_2_pts_rebs_asts": [
+        "18.0",
+        "1.0"
+    ],
+    "Tyrese Maxey U*period_1_2_pts_rebs_asts": [
+        "18.0",
+        "1.0"
+    ],
+    "Tyrese Maxey O*free_throws_made": [
+        "4.0",
+        "1.0"
+    ],
+    "Tyrese Maxey U*free_throws_made": [
+        "4.0",
+        "1.0"
+    ],
+    "Tyrese Maxey O*period_1_2_points": [
+        "13.0",
+        "1.0"
+    ],
+    "Tyrese Maxey U*period_1_2_points": [
+        "13.0",
+        "1.0"
+    ],
+    "Tyrese Maxey O*turnovers": [
+        "2.5",
+        "1.0"
+    ],
+    "Tyrese Maxey U*turnovers": [
+        "2.5",
+        "1.0"
+    ],
+    "Tyrese Maxey O*stlblk": [
+        "1.5",
+        "1.2"
+    ],
+    "Tyrese Maxey U*stlblk": [
+        "1.5",
+        "0.8"
+    ],
+    "OG Anunoby O*points": [
+        "14.5",
+        "1.0"
+    ],
+    "OG Anunoby U*points": [
+        "14.5",
+        "1.0"
+    ],
+    "OG Anunoby O*period_1_points": [
+        "3.5",
+        "1.05"
+    ],
+    "OG Anunoby U*period_1_points": [
+        "3.5",
+        "0.95"
+    ],
+    "OG Anunoby O*pts_rebs_asts": [
+        "22.5",
+        "1.0"
+    ],
+    "OG Anunoby U*pts_rebs_asts": [
+        "22.5",
+        "1.0"
+    ],
+    "OG Anunoby O*rebounds": [
+        "5.5",
+        "0.85"
+    ],
+    "OG Anunoby U*rebounds": [
+        "5.5",
+        "1.1"
+    ],
+    "OG Anunoby O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "OG Anunoby U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "OG Anunoby O*ptsreb": [
+        "20.5",
+        "0.9"
+    ],
+    "OG Anunoby U*ptsreb": [
+        "20.5",
+        "1.05"
+    ],
+    "OG Anunoby O*fantasy_points": [
+        "29.15",
+        "1.0"
+    ],
+    "OG Anunoby U*fantasy_points": [
+        "29.15",
+        "1.0"
+    ],
+    "OG Anunoby O*period_1_2_points": [
+        "7.5",
+        "1.0"
+    ],
+    "OG Anunoby U*period_1_2_points": [
+        "7.5",
+        "1.0"
+    ],
+    "OG Anunoby O*period_1_2_pts_rebs_asts": [
+        "11.0",
+        "1.0"
+    ],
+    "OG Anunoby U*period_1_2_pts_rebs_asts": [
+        "11.0",
+        "1.0"
+    ],
+    "Tobias Harris O*points": [
+        "10.5",
+        "1.0"
+    ],
+    "Tobias Harris U*points": [
+        "10.5",
+        "1.0"
+    ],
+    "Tobias Harris O*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Tobias Harris U*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Tobias Harris O*rebounds": [
+        "7.0",
+        "1.0"
+    ],
+    "Tobias Harris U*rebounds": [
+        "7.0",
+        "1.0"
+    ],
+    "Tobias Harris O*threes": [
+        "0.5",
+        "0.75"
+    ],
+    "Tobias Harris U*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Tobias Harris O*ptsreb": [
+        "17.5",
+        "1.0"
+    ],
+    "Tobias Harris U*ptsreb": [
+        "17.5",
+        "1.0"
+    ],
+    "Tobias Harris O*period_1_rebounds": [
+        "1.5",
+        "1.0"
+    ],
+    "Tobias Harris U*period_1_rebounds": [
+        "1.5",
+        "1.0"
+    ],
+    "Tobias Harris O*period_1_2_pts_rebs_asts": [
+        "10.0",
+        "1.0"
+    ],
+    "Tobias Harris U*period_1_2_pts_rebs_asts": [
+        "10.0",
+        "1.0"
+    ],
+    "Tobias Harris O*period_1_2_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Tobias Harris U*period_1_2_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Tobias Harris O*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Tobias Harris U*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Kyle Lowry O*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Kyle Lowry U*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Kyle Lowry O*pts_rebs_asts": [
+        "15.0",
+        "1.0"
+    ],
+    "Kyle Lowry U*pts_rebs_asts": [
+        "15.0",
+        "1.0"
+    ],
+    "Kyle Lowry O*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Kyle Lowry U*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Kyle Lowry O*rebast": [
+        "7.0",
+        "1.0"
+    ],
+    "Kyle Lowry U*rebast": [
+        "7.0",
+        "1.0"
+    ],
+    "Kyle Lowry O*threes": [
+        "1.5",
+        "1.1"
+    ],
+    "Kyle Lowry U*threes": [
+        "1.5",
+        "0.9"
+    ],
+    "Kelly Oubre Jr. O*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. O*period_1_points": [
+        "2.5",
+        "0.85"
+    ],
+    "Kelly Oubre Jr. U*period_1_points": [
+        "2.5",
+        "1.1"
+    ],
+    "Kelly Oubre Jr. O*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. O*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. O*ptsreb": [
+        "16.5",
+        "0.9"
+    ],
+    "Kelly Oubre Jr. U*ptsreb": [
+        "16.5",
+        "1.05"
+    ],
+    "Kelly Oubre Jr. O*steals": [
+        "1.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*steals": [
+        "1.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. O*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. O*period_1_2_points": [
+        "6.0",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*period_1_2_points": [
+        "6.0",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. O*stlblk": [
+        "2.5",
+        "1.0"
+    ],
+    "Kelly Oubre Jr. U*stlblk": [
+        "2.5",
+        "1.0"
+    ],
+    "Josh Hart O*points": [
+        "14.5",
+        "1.0"
+    ],
+    "Josh Hart U*points": [
+        "14.5",
+        "1.0"
+    ],
+    "Josh Hart O*period_1_points": [
+        "3.5",
+        "1.0"
+    ],
+    "Josh Hart U*period_1_points": [
+        "3.5",
+        "1.0"
+    ],
+    "Josh Hart O*pts_rebs_asts": [
+        "31.5",
+        "1.0"
+    ],
+    "Josh Hart U*pts_rebs_asts": [
+        "31.5",
+        "1.0"
+    ],
+    "Josh Hart O*assists": [
+        "4.5",
+        "0.85"
+    ],
+    "Josh Hart U*assists": [
+        "4.5",
+        "1.1"
+    ],
+    "Josh Hart O*rebounds": [
+        "12.5",
+        "1.05"
+    ],
+    "Josh Hart U*rebounds": [
+        "12.5",
+        "0.9"
+    ],
+    "Josh Hart O*rebast": [
+        "16.5",
+        "1.0"
+    ],
+    "Josh Hart U*rebast": [
+        "16.5",
+        "1.0"
+    ],
+    "Josh Hart O*threes": [
+        "1.5",
+        "0.85"
+    ],
+    "Josh Hart U*threes": [
+        "1.5",
+        "1.1"
+    ],
+    "Josh Hart O*ptsast": [
+        "19.5",
+        "1.0"
+    ],
+    "Josh Hart U*ptsast": [
+        "19.5",
+        "1.0"
+    ],
+    "Josh Hart O*ptsreb": [
+        "26.5",
+        "1.0"
+    ],
+    "Josh Hart U*ptsreb": [
+        "26.5",
+        "1.0"
+    ],
+    "Josh Hart O*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Josh Hart U*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Josh Hart O*fantasy_points": [
+        "39.15",
+        "1.0"
+    ],
+    "Josh Hart U*fantasy_points": [
+        "39.15",
+        "1.0"
+    ],
+    "Josh Hart O*period_1_rebounds": [
+        "3.0",
+        "1.0"
+    ],
+    "Josh Hart U*period_1_rebounds": [
+        "3.0",
+        "1.0"
+    ],
+    "Josh Hart O*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Josh Hart U*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Josh Hart O*double_doubles": [
+        "0.5",
+        "0.75"
+    ],
+    "Josh Hart U*double_doubles": [
+        "0.5",
+        "1.25"
+    ],
+    "Josh Hart O*turnovers": [
+        "2.0",
+        "1.0"
+    ],
+    "Josh Hart U*turnovers": [
+        "2.0",
+        "1.0"
+    ],
+    "Josh Hart O*period_1_2_points": [
+        "7.5",
+        "1.0"
+    ],
+    "Josh Hart U*period_1_2_points": [
+        "7.5",
+        "1.0"
+    ],
+    "Josh Hart O*period_1_2_pts_rebs_asts": [
+        "16.0",
+        "1.0"
+    ],
+    "Josh Hart U*period_1_2_pts_rebs_asts": [
+        "16.0",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*period_1_points": [
+        "3.0",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*period_1_points": [
+        "3.0",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*rebast": [
+        "6.0",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*rebast": [
+        "6.0",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*ptsreb": [
+        "16.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*ptsreb": [
+        "16.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*period_1_assists": [
+        "0.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*period_1_assists": [
+        "0.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*blocks": [
+        "0.5",
+        "1.25"
+    ],
+    "Donte DiVincenzo U*blocks": [
+        "0.5",
+        "0.8"
+    ],
+    "Donte DiVincenzo O*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo O*period_1_2_points": [
+        "6.5",
+        "1.0"
+    ],
+    "Donte DiVincenzo U*period_1_2_points": [
+        "6.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*points": [
+        "8.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*points": [
+        "8.5",
+        "1.0"
+    ],
+    "Miles McBride O*points": [
+        "8.5",
+        "1.0"
+    ],
+    "Miles McBride U*points": [
+        "8.5",
+        "1.0"
+    ],
+    "Miles McBride O*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Miles McBride U*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*rebounds": [
+        "7.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*rebounds": [
+        "7.5",
+        "1.0"
+    ],
+    "Miles McBride O*threes": [
+        "1.5",
+        "0.9"
+    ],
+    "Miles McBride U*threes": [
+        "1.5",
+        "1.05"
+    ],
+    "Isaiah Hartenstein O*ptsreb": [
+        "16.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*ptsreb": [
+        "16.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*period_1_assists": [
+        "0.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*period_1_assists": [
+        "0.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*blocks": [
+        "1.5",
+        "1.25"
+    ],
+    "Isaiah Hartenstein U*blocks": [
+        "1.5",
+        "0.8"
+    ],
+    "Isaiah Hartenstein O*turnovers": [
+        "1.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*turnovers": [
+        "1.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*double_doubles": [
+        "0.5",
+        "2.75"
+    ],
+    "Miles McBride O*blocks": [
+        "0.5",
+        "4.5"
+    ],
+    "Miles McBride O*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Miles McBride U*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein O*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Isaiah Hartenstein U*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Donovan Mitchell O*points": [
+        "29.5",
+        "1.5"
+    ],
+    "Donovan Mitchell U*points": [
+        "29.5",
+        "0.75"
+    ],
+    "Donovan Mitchell O*period_1_points": [
+        "6.5",
+        "1.05"
+    ],
+    "Donovan Mitchell U*period_1_points": [
+        "6.5",
+        "0.9"
+    ],
+    "Donovan Mitchell O*pts_rebs_asts": [
+        "34.5",
+        "1.0"
+    ],
+    "Donovan Mitchell U*pts_rebs_asts": [
+        "34.5",
+        "1.0"
+    ],
+    "Donovan Mitchell O*assists": [
+        "5.5",
+        "1.1"
+    ],
+    "Donovan Mitchell U*assists": [
+        "5.5",
+        "0.9"
+    ],
+    "Donovan Mitchell O*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Donovan Mitchell U*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Donovan Mitchell O*rebast": [
+        "10.0",
+        "1.0"
+    ],
+    "Donovan Mitchell U*rebast": [
+        "10.0",
+        "1.0"
+    ],
+    "Donovan Mitchell O*threes": [
+        "2.5",
+        "0.9"
+    ],
+    "Donovan Mitchell U*threes": [
+        "2.5",
+        "1.05"
+    ],
+    "Donovan Mitchell O*ptsast": [
+        "30.0",
+        "1.0"
+    ],
+    "Donovan Mitchell U*ptsast": [
+        "30.0",
+        "1.0"
+    ],
+    "Donovan Mitchell O*ptsreb": [
+        "29.5",
+        "1.0"
+    ],
+    "Donovan Mitchell U*ptsreb": [
+        "29.5",
+        "1.0"
+    ],
+    "Donovan Mitchell O*period_1_pts_rebs_asts": [
+        "9.0",
+        "1.0"
+    ],
+    "Donovan Mitchell U*period_1_pts_rebs_asts": [
+        "9.0",
+        "1.0"
+    ],
+    "Donovan Mitchell O*fantasy_points": [
+        "40.85",
+        "1.0"
+    ],
+    "Donovan Mitchell U*fantasy_points": [
+        "40.85",
+        "1.0"
+    ],
+    "Donovan Mitchell O*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Donovan Mitchell U*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Donovan Mitchell O*period_1_2_points": [
+        "12.5",
+        "1.0"
+    ],
+    "Donovan Mitchell U*period_1_2_points": [
+        "12.5",
+        "1.0"
+    ],
+    "Donovan Mitchell O*period_1_2_pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Donovan Mitchell U*period_1_2_pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Donovan Mitchell O*free_throws_made": [
+        "4.5",
+        "1.0"
+    ],
+    "Donovan Mitchell U*free_throws_made": [
+        "4.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*period_1_points": [
+        "5.5",
+        "1.05"
+    ],
+    "Paolo Banchero U*period_1_points": [
+        "5.5",
+        "0.9"
+    ],
+    "Paolo Banchero O*points": [
+        "21.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*points": [
+        "21.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*pts_rebs_asts": [
+        "34.0",
+        "1.0"
+    ],
+    "Paolo Banchero U*pts_rebs_asts": [
+        "34.0",
+        "1.0"
+    ],
+    "Paolo Banchero O*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Paolo Banchero U*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Paolo Banchero O*rebounds": [
+        "6.5",
+        "0.9"
+    ],
+    "Paolo Banchero U*rebounds": [
+        "6.5",
+        "1.05"
+    ],
+    "Paolo Banchero O*rebast": [
+        "12.0",
+        "1.0"
+    ],
+    "Paolo Banchero U*rebast": [
+        "12.0",
+        "1.0"
+    ],
+    "Paolo Banchero O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*ptsreb": [
+        "28.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*ptsreb": [
+        "28.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*ptsast": [
+        "27.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*ptsast": [
+        "27.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*fantasy_points": [
+        "36.85",
+        "1.0"
+    ],
+    "Paolo Banchero U*fantasy_points": [
+        "36.85",
+        "1.0"
+    ],
+    "Paolo Banchero O*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*period_1_2_points": [
+        "11.0",
+        "1.0"
+    ],
+    "Paolo Banchero U*period_1_2_points": [
+        "11.0",
+        "1.0"
+    ],
+    "Paolo Banchero O*period_1_2_pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*period_1_2_pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*free_throws_made": [
+        "4.5",
+        "1.0"
+    ],
+    "Paolo Banchero U*free_throws_made": [
+        "4.5",
+        "1.0"
+    ],
+    "Paolo Banchero O*double_doubles": [
+        "0.5",
+        "2.25"
+    ],
+    "Darius Garland O*points": [
+        "15.5",
+        "1.0"
+    ],
+    "Darius Garland U*points": [
+        "15.5",
+        "1.0"
+    ],
+    "Darius Garland O*period_1_points": [
+        "3.0",
+        "1.0"
+    ],
+    "Darius Garland U*period_1_points": [
+        "3.0",
+        "1.0"
+    ],
+    "Darius Garland O*pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Darius Garland U*pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Darius Garland O*assists": [
+        "6.0",
+        "1.0"
+    ],
+    "Darius Garland U*assists": [
+        "6.0",
+        "1.0"
+    ],
+    "Darius Garland O*rebast": [
+        "9.0",
+        "1.0"
+    ],
+    "Darius Garland U*rebast": [
+        "9.0",
+        "1.0"
+    ],
+    "Darius Garland O*threes": [
+        "2.5",
+        "1.2"
+    ],
+    "Darius Garland U*threes": [
+        "2.5",
+        "0.85"
+    ],
+    "Darius Garland O*ptsreb": [
+        "18.5",
+        "1.0"
+    ],
+    "Darius Garland U*ptsreb": [
+        "18.5",
+        "1.0"
+    ],
+    "Darius Garland O*ptsast": [
+        "21.5",
+        "1.0"
+    ],
+    "Darius Garland U*ptsast": [
+        "21.5",
+        "1.0"
+    ],
+    "Darius Garland O*fantasy_points": [
+        "27.55",
+        "1.0"
+    ],
+    "Darius Garland U*fantasy_points": [
+        "27.55",
+        "1.0"
+    ],
+    "Darius Garland O*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Darius Garland U*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Darius Garland O*period_1_2_points": [
+        "7.5",
+        "1.0"
+    ],
+    "Darius Garland U*period_1_2_points": [
+        "7.5",
+        "1.0"
+    ],
+    "Darius Garland O*period_1_2_pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Darius Garland U*period_1_2_pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Darius Garland O*turnovers": [
+        "2.5",
+        "0.85"
+    ],
+    "Darius Garland U*turnovers": [
+        "2.5",
+        "1.1"
+    ],
+    "Evan Mobley O*points": [
+        "19.5",
+        "1.5"
+    ],
+    "Evan Mobley U*points": [
+        "19.5",
+        "0.7"
+    ],
+    "Evan Mobley O*period_1_points": [
+        "4.0",
+        "1.0"
+    ],
+    "Evan Mobley U*period_1_points": [
+        "4.0",
+        "1.0"
+    ],
+    "Evan Mobley O*pts_rebs_asts": [
+        "27.5",
+        "1.0"
+    ],
+    "Evan Mobley U*pts_rebs_asts": [
+        "27.5",
+        "1.0"
+    ],
+    "Evan Mobley O*rebounds": [
+        "9.5",
+        "1.0"
+    ],
+    "Evan Mobley U*rebounds": [
+        "9.5",
+        "1.0"
+    ],
+    "Evan Mobley O*rebast": [
+        "12.0",
+        "1.0"
+    ],
+    "Evan Mobley U*rebast": [
+        "12.0",
+        "1.0"
+    ],
+    "Evan Mobley O*threes": [
+        "0.5",
+        "1.05"
+    ],
+    "Evan Mobley U*threes": [
+        "0.5",
+        "0.9"
+    ],
+    "Evan Mobley O*ptsast": [
+        "18.5",
+        "1.0"
+    ],
+    "Evan Mobley U*ptsast": [
+        "18.5",
+        "1.0"
+    ],
+    "Evan Mobley O*ptsreb": [
+        "24.5",
+        "1.0"
+    ],
+    "Evan Mobley U*ptsreb": [
+        "24.5",
+        "1.0"
+    ],
+    "Evan Mobley O*fantasy_points": [
+        "35.95",
+        "1.0"
+    ],
+    "Evan Mobley U*fantasy_points": [
+        "35.95",
+        "1.0"
+    ],
+    "Evan Mobley O*period_1_pts_rebs_asts": [
+        "7.0",
+        "1.0"
+    ],
+    "Evan Mobley U*period_1_pts_rebs_asts": [
+        "7.0",
+        "1.0"
+    ],
+    "Evan Mobley O*period_1_rebounds": [
+        "2.0",
+        "1.0"
+    ],
+    "Evan Mobley U*period_1_rebounds": [
+        "2.0",
+        "1.0"
+    ],
+    "Evan Mobley O*free_throws_made": [
+        "2.5",
+        "1.0"
+    ],
+    "Evan Mobley U*free_throws_made": [
+        "2.5",
+        "1.0"
+    ],
+    "Evan Mobley O*period_1_2_points": [
+        "8.0",
+        "1.0"
+    ],
+    "Evan Mobley U*period_1_2_points": [
+        "8.0",
+        "1.0"
+    ],
+    "Evan Mobley O*period_1_2_pts_rebs_asts": [
+        "14.0",
+        "1.0"
+    ],
+    "Evan Mobley U*period_1_2_pts_rebs_asts": [
+        "14.0",
+        "1.0"
+    ],
+    "Evan Mobley O*blocks": [
+        "1.5",
+        "0.9"
+    ],
+    "Evan Mobley U*blocks": [
+        "1.5",
+        "1.1"
+    ],
+    "Evan Mobley O*double_doubles": [
+        "0.5",
+        "1.2"
+    ],
+    "Evan Mobley U*double_doubles": [
+        "0.5",
+        "0.85"
+    ],
+    "Jarrett Allen O*points": [
+        "24.5",
+        "2.75"
+    ],
+    "Jarrett Allen U*points": [
+        "16.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*pts_rebs_asts": [
+        "30.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*pts_rebs_asts": [
+        "30.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*rebounds": [
+        "12.0",
+        "1.0"
+    ],
+    "Jarrett Allen U*rebounds": [
+        "12.0",
+        "1.0"
+    ],
+    "Jarrett Allen O*rebast": [
+        "14.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*rebast": [
+        "14.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*ptsreb": [
+        "28.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*ptsreb": [
+        "28.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*ptsast": [
+        "18.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*ptsast": [
+        "18.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*period_1_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*period_1_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*fantasy_points": [
+        "37.15",
+        "1.0"
+    ],
+    "Jarrett Allen U*fantasy_points": [
+        "37.15",
+        "1.0"
+    ],
+    "Jarrett Allen O*period_1_rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*period_1_rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*period_1_2_points": [
+        "8.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*period_1_2_points": [
+        "8.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*period_1_2_pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*period_1_2_pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Jarrett Allen O*free_throws_made": [
+        "3.5",
+        "1.0"
+    ],
+    "Jarrett Allen U*free_throws_made": [
+        "3.5",
+        "1.0"
+    ],
+    "Jalen Suggs O*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Jalen Suggs U*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Jalen Suggs O*pts_rebs_asts": [
+        "20.5",
+        "1.0"
+    ],
+    "Jalen Suggs U*pts_rebs_asts": [
+        "20.5",
+        "1.0"
+    ],
+    "Jalen Suggs O*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Jalen Suggs U*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Jalen Suggs O*threes": [
+        "1.5",
+        "0.85"
+    ],
+    "Jalen Suggs U*threes": [
+        "1.5",
+        "1.1"
+    ],
+    "Jalen Suggs O*period_1_2_points": [
+        "6.5",
+        "1.0"
+    ],
+    "Jalen Suggs U*period_1_2_points": [
+        "6.5",
+        "1.0"
+    ],
+    "Jalen Suggs O*period_1_2_pts_rebs_asts": [
+        "10.5",
+        "1.0"
+    ],
+    "Jalen Suggs U*period_1_2_pts_rebs_asts": [
+        "10.5",
+        "1.0"
+    ],
+    "Franz Wagner O*points": [
+        "24.5",
+        "1.5"
+    ],
+    "Franz Wagner U*points": [
+        "24.5",
+        "0.7"
+    ],
+    "Franz Wagner O*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Franz Wagner U*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Franz Wagner O*pts_rebs_asts": [
+        "30.5",
+        "1.0"
+    ],
+    "Franz Wagner U*pts_rebs_asts": [
+        "30.5",
+        "1.0"
+    ],
+    "Franz Wagner O*rebounds": [
+        "6.5",
+        "1.0"
+    ],
+    "Franz Wagner U*rebounds": [
+        "6.5",
+        "1.0"
+    ],
+    "Franz Wagner O*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Franz Wagner U*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Franz Wagner O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Franz Wagner U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Franz Wagner O*ptsast": [
+        "23.5",
+        "1.0"
+    ],
+    "Franz Wagner U*ptsast": [
+        "23.5",
+        "1.0"
+    ],
+    "Franz Wagner O*ptsreb": [
+        "26.5",
+        "1.0"
+    ],
+    "Franz Wagner U*ptsreb": [
+        "26.5",
+        "1.0"
+    ],
+    "Franz Wagner O*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Franz Wagner U*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Franz Wagner O*fantasy_points": [
+        "34.75",
+        "1.0"
+    ],
+    "Franz Wagner U*fantasy_points": [
+        "34.75",
+        "1.0"
+    ],
+    "Franz Wagner O*double_doubles": [
+        "0.5",
+        "3.25"
+    ],
+    "Franz Wagner O*period_1_2_pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Franz Wagner U*period_1_2_pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Franz Wagner O*free_throws_made": [
+        "4.0",
+        "1.0"
+    ],
+    "Franz Wagner U*free_throws_made": [
+        "4.0",
+        "1.0"
+    ],
+    "Franz Wagner O*period_1_2_points": [
+        "10.0",
+        "1.0"
+    ],
+    "Franz Wagner U*period_1_2_points": [
+        "10.0",
+        "1.0"
+    ],
+    "Franz Wagner O*blocks": [
+        "0.5",
+        "1.1"
+    ],
+    "Franz Wagner U*blocks": [
+        "0.5",
+        "0.85"
+    ],
+    "Wendell Carter Jr. O*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Wendell Carter Jr. U*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Wendell Carter Jr. O*pts_rebs_asts": [
+        "14.5",
+        "1.0"
+    ],
+    "Wendell Carter Jr. U*pts_rebs_asts": [
+        "14.5",
+        "1.0"
+    ],
+    "Wendell Carter Jr. O*rebounds": [
+        "6.0",
+        "1.0"
+    ],
+    "Wendell Carter Jr. U*rebounds": [
+        "6.0",
+        "1.0"
+    ],
+    "Wendell Carter Jr. O*rebast": [
+        "7.0",
+        "1.0"
+    ],
+    "Wendell Carter Jr. U*rebast": [
+        "7.0",
+        "1.0"
+    ],
+    "Wendell Carter Jr. O*threes": [
+        "0.5",
+        "0.7"
+    ],
+    "Wendell Carter Jr. U*threes": [
+        "0.5",
+        "1.5"
+    ],
+    "Wendell Carter Jr. O*blocks": [
+        "0.5",
+        "1.25"
+    ],
+    "Wendell Carter Jr. U*blocks": [
+        "0.5",
+        "0.8"
+    ],
+    "Markelle Fultz O*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Markelle Fultz U*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Markelle Fultz O*blocks": [
+        "0.5",
+        "2.25"
+    ],
+    "Cole Anthony O*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Cole Anthony U*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Max Strus O*points": [
+        "8.5",
+        "1.0"
+    ],
+    "Max Strus U*points": [
+        "8.5",
+        "1.0"
+    ],
+    "Max Strus O*period_1_points": [
+        "2.5",
+        "1.1"
+    ],
+    "Max Strus U*period_1_points": [
+        "2.5",
+        "0.85"
+    ],
+    "Max Strus O*pts_rebs_asts": [
+        "16.5",
+        "1.0"
+    ],
+    "Max Strus U*pts_rebs_asts": [
+        "16.5",
+        "1.0"
+    ],
+    "Max Strus O*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Max Strus U*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Max Strus O*rebast": [
+        "7.5",
+        "1.0"
+    ],
+    "Max Strus U*rebast": [
+        "7.5",
+        "1.0"
+    ],
+    "Max Strus O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Max Strus U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Cole Anthony O*threes": [
+        "0.5",
+        "1.1"
+    ],
+    "Cole Anthony U*threes": [
+        "0.5",
+        "0.9"
+    ],
+    "Max Strus O*period_1_2_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Max Strus U*period_1_2_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Max Strus O*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Max Strus U*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Cole Anthony O*blocks": [
+        "0.5",
+        "2.25"
+    ],
+    "Caris LeVert O*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Caris LeVert U*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Caris LeVert O*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Caris LeVert U*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Caris LeVert O*threes": [
+        "0.5",
+        "0.75"
+    ],
+    "Caris LeVert U*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Caris LeVert O*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Caris LeVert U*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Moritz Wagner O*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Moritz Wagner U*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Gary Harris O*period_1_points": [
+        "0.5",
+        "1.0"
+    ],
+    "Gary Harris U*period_1_points": [
+        "0.5",
+        "1.0"
+    ],
+    "Georges Niang O*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Georges Niang U*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Isaac Okoro O*points": [
+        "4.5",
+        "1.0"
+    ],
+    "Isaac Okoro U*points": [
+        "4.5",
+        "1.0"
+    ],
+    "Gary Harris O*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Gary Harris U*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Jonathan Isaac O*points": [
+        "6.5",
+        "1.0"
+    ],
+    "Jonathan Isaac U*points": [
+        "6.5",
+        "1.0"
+    ],
+    "Moritz Wagner O*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Moritz Wagner U*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Jonathan Isaac O*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Jonathan Isaac U*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Moritz Wagner O*rebounds": [
+        "4.5",
+        "1.1"
+    ],
+    "Moritz Wagner U*rebounds": [
+        "4.5",
+        "0.9"
+    ],
+    "Jonathan Isaac O*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Jonathan Isaac U*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Moritz Wagner O*threes": [
+        "0.5",
+        "1.5"
+    ],
+    "Moritz Wagner U*threes": [
+        "0.5",
+        "0.7"
+    ],
+    "Georges Niang O*threes": [
+        "1.5",
+        "1.25"
+    ],
+    "Georges Niang U*threes": [
+        "1.5",
+        "0.75"
+    ],
+    "Isaac Okoro O*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Isaac Okoro U*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Jonathan Isaac O*threes": [
+        "1.5",
+        "1.25"
+    ],
+    "Jonathan Isaac U*threes": [
+        "1.5",
+        "0.75"
+    ],
+    "Gary Harris O*threes": [
+        "1.5",
+        "1.1"
+    ],
+    "Gary Harris U*threes": [
+        "1.5",
+        "0.9"
+    ],
+    "Gary Harris O*period_1_rebounds": [
+        "0.5",
+        "1.0"
+    ],
+    "Gary Harris U*period_1_rebounds": [
+        "0.5",
+        "1.0"
+    ],
+    "Gary Harris O*blocks": [
+        "0.5",
+        "1.75"
+    ],
+    "Gary Harris U*blocks": [
+        "0.5",
+        "0.65"
+    ],
+    "Moritz Wagner O*blocks": [
+        "0.5",
+        "2.25"
+    ],
+    "Moritz Wagner O*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Moritz Wagner U*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*period_1_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*period_1_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*points": [
+        "23.5",
+        "2.0"
+    ],
+    "Tyrese Haliburton U*points": [
+        "13.5",
+        "1.5"
+    ],
+    "Tyrese Haliburton O*pts_rebs_asts": [
+        "33.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*pts_rebs_asts": [
+        "33.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*assists": [
+        "10.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*assists": [
+        "10.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*threes": [
+        "3.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*threes": [
+        "3.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*ptsast": [
+        "28.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*ptsast": [
+        "28.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*ptsreb": [
+        "23.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*ptsreb": [
+        "23.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*period_1_assists": [
+        "3.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*period_1_assists": [
+        "3.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*fantasy_points": [
+        "41.45",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*fantasy_points": [
+        "41.45",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*period_1_pts_rebs_asts": [
+        "9.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*period_1_pts_rebs_asts": [
+        "9.0",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*double_doubles": [
+        "0.5",
+        "0.85"
+    ],
+    "Tyrese Haliburton U*double_doubles": [
+        "0.5",
+        "1.1"
+    ],
+    "Tyrese Haliburton O*period_1_2_points": [
+        "9.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*period_1_2_points": [
+        "9.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton O*period_1_2_pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Tyrese Haliburton U*period_1_2_pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*points": [
+        "28.5",
+        "1.5"
+    ],
+    "Pascal Siakam U*points": [
+        "28.5",
+        "0.7"
+    ],
+    "Pascal Siakam O*pts_rebs_asts": [
+        "37.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*pts_rebs_asts": [
+        "37.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*rebounds": [
+        "9.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*rebounds": [
+        "9.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*rebast": [
+        "13.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*rebast": [
+        "13.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*threes": [
+        "0.5",
+        "0.7"
+    ],
+    "Pascal Siakam U*threes": [
+        "0.5",
+        "1.5"
+    ],
+    "Pascal Siakam O*ptsast": [
+        "27.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*ptsast": [
+        "27.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*ptsreb": [
+        "33.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*ptsreb": [
+        "33.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*fantasy_points": [
+        "44.05",
+        "1.0"
+    ],
+    "Pascal Siakam U*fantasy_points": [
+        "44.05",
+        "1.0"
+    ],
+    "Pascal Siakam O*period_1_2_points": [
+        "12.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*period_1_2_points": [
+        "12.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*period_1_2_pts_rebs_asts": [
+        "19.0",
+        "1.0"
+    ],
+    "Pascal Siakam U*period_1_2_pts_rebs_asts": [
+        "19.0",
+        "1.0"
+    ],
+    "Pascal Siakam O*free_throws_made": [
+        "3.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*free_throws_made": [
+        "3.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*double_doubles": [
+        "0.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*double_doubles": [
+        "0.5",
+        "1.0"
+    ],
+    "Pascal Siakam O*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Pascal Siakam U*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Khris Middleton O*points": [
+        "29.5",
+        "1.25"
+    ],
+    "Khris Middleton U*points": [
+        "29.5",
+        "0.75"
+    ],
+    "Khris Middleton O*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Khris Middleton U*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Khris Middleton O*pts_rebs_asts": [
+        "39.5",
+        "1.0"
+    ],
+    "Khris Middleton U*pts_rebs_asts": [
+        "39.5",
+        "1.0"
+    ],
+    "Khris Middleton O*assists": [
+        "6.5",
+        "1.0"
+    ],
+    "Khris Middleton U*assists": [
+        "6.5",
+        "1.0"
+    ],
+    "Khris Middleton O*rebounds": [
+        "6.5",
+        "0.9"
+    ],
+    "Khris Middleton U*rebounds": [
+        "6.5",
+        "1.1"
+    ],
+    "Khris Middleton O*rebast": [
+        "13.5",
+        "1.0"
+    ],
+    "Khris Middleton U*rebast": [
+        "13.5",
+        "1.0"
+    ],
+    "Khris Middleton O*threes": [
+        "2.0",
+        "1.0"
+    ],
+    "Khris Middleton U*threes": [
+        "2.0",
+        "1.0"
+    ],
+    "Khris Middleton O*ptsreb": [
+        "32.5",
+        "1.0"
+    ],
+    "Khris Middleton U*ptsreb": [
+        "32.5",
+        "1.0"
+    ],
+    "Khris Middleton O*ptsast": [
+        "32.5",
+        "1.0"
+    ],
+    "Khris Middleton U*ptsast": [
+        "32.5",
+        "1.0"
+    ],
+    "Khris Middleton O*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Khris Middleton U*period_1_pts_rebs_asts": [
+        "8.5",
+        "1.0"
+    ],
+    "Khris Middleton O*fantasy_points": [
+        "42.75",
+        "1.0"
+    ],
+    "Khris Middleton U*fantasy_points": [
+        "42.75",
+        "1.0"
+    ],
+    "Khris Middleton O*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Khris Middleton U*period_1_assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Khris Middleton O*period_1_2_points": [
+        "13.5",
+        "1.0"
+    ],
+    "Khris Middleton U*period_1_2_points": [
+        "13.5",
+        "1.0"
+    ],
+    "Khris Middleton O*period_1_2_pts_rebs_asts": [
+        "20.0",
+        "1.0"
+    ],
+    "Khris Middleton U*period_1_2_pts_rebs_asts": [
+        "20.0",
+        "1.0"
+    ],
+    "Khris Middleton O*blocks": [
+        "0.5",
+        "1.5"
+    ],
+    "Khris Middleton U*blocks": [
+        "0.5",
+        "0.7"
+    ],
+    "Khris Middleton O*turnovers": [
+        "3.5",
+        "1.0"
+    ],
+    "Khris Middleton U*turnovers": [
+        "3.5",
+        "1.0"
+    ],
+    "Khris Middleton O*double_doubles": [
+        "0.5",
+        "1.5"
+    ],
+    "Khris Middleton U*double_doubles": [
+        "0.5",
+        "0.7"
+    ],
+    "Brook Lopez O*points": [
+        "19.5",
+        "1.5"
+    ],
+    "Brook Lopez U*points": [
+        "19.5",
+        "0.7"
+    ],
+    "Brook Lopez O*period_1_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Brook Lopez U*period_1_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Brook Lopez O*pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Brook Lopez U*pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Brook Lopez O*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "Brook Lopez U*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "Brook Lopez O*threes": [
+        "1.5",
+        "0.85"
+    ],
+    "Brook Lopez U*threes": [
+        "1.5",
+        "1.1"
+    ],
+    "Brook Lopez O*fantasy_points": [
+        "32.75",
+        "1.0"
+    ],
+    "Brook Lopez U*fantasy_points": [
+        "32.75",
+        "1.0"
+    ],
+    "Brook Lopez O*period_1_2_points": [
+        "8.5",
+        "1.0"
+    ],
+    "Brook Lopez U*period_1_2_points": [
+        "8.5",
+        "1.0"
+    ],
+    "Brook Lopez O*period_1_2_pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Brook Lopez U*period_1_2_pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Brook Lopez O*blocks": [
+        "1.5",
+        "0.85"
+    ],
+    "Brook Lopez U*blocks": [
+        "1.5",
+        "1.1"
+    ],
+    "Brook Lopez O*double_doubles": [
+        "0.5",
+        "5.75"
+    ],
+    "Myles Turner O*points": [
+        "24.5",
+        "1.25"
+    ],
+    "Myles Turner U*points": [
+        "24.5",
+        "0.75"
+    ],
+    "Myles Turner O*period_1_points": [
+        "5.0",
+        "1.0"
+    ],
+    "Myles Turner U*period_1_points": [
+        "5.0",
+        "1.0"
+    ],
+    "Myles Turner O*pts_rebs_asts": [
+        "31.5",
+        "1.0"
+    ],
+    "Myles Turner U*pts_rebs_asts": [
+        "31.5",
+        "1.0"
+    ],
+    "Myles Turner O*rebounds": [
+        "8.5",
+        "0.9"
+    ],
+    "Myles Turner U*rebounds": [
+        "8.5",
+        "1.05"
+    ],
+    "Myles Turner O*threes": [
+        "2.5",
+        "1.1"
+    ],
+    "Myles Turner U*threes": [
+        "2.5",
+        "0.85"
+    ],
+    "Myles Turner O*period_1_rebounds": [
+        "2.0",
+        "1.0"
+    ],
+    "Myles Turner U*period_1_rebounds": [
+        "2.0",
+        "1.0"
+    ],
+    "Myles Turner O*period_1_pts_rebs_asts": [
+        "7.5",
+        "1.0"
+    ],
+    "Myles Turner U*period_1_pts_rebs_asts": [
+        "7.5",
+        "1.0"
+    ],
+    "Myles Turner O*fantasy_points": [
+        "38.85",
+        "1.0"
+    ],
+    "Myles Turner U*fantasy_points": [
+        "38.85",
+        "1.0"
+    ],
+    "Myles Turner O*double_doubles": [
+        "0.5",
+        "1.1"
+    ],
+    "Myles Turner U*double_doubles": [
+        "0.5",
+        "0.85"
+    ],
+    "Myles Turner O*blocks": [
+        "1.5",
+        "0.85"
+    ],
+    "Myles Turner U*blocks": [
+        "1.5",
+        "1.1"
+    ],
+    "Myles Turner O*free_throws_made": [
+        "3.5",
+        "1.0"
+    ],
+    "Myles Turner U*free_throws_made": [
+        "3.5",
+        "1.0"
+    ],
+    "Myles Turner O*period_1_2_pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Myles Turner U*period_1_2_pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Myles Turner O*period_1_2_points": [
+        "10.5",
+        "1.0"
+    ],
+    "Myles Turner U*period_1_2_points": [
+        "10.5",
+        "1.0"
+    ],
+    "Bobby Portis O*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Bobby Portis U*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Bobby Portis O*points": [
+        "24.5",
+        "1.5"
+    ],
+    "Bobby Portis U*points": [
+        "24.5",
+        "0.75"
+    ],
+    "Bobby Portis O*pts_rebs_asts": [
+        "36.5",
+        "1.0"
+    ],
+    "Bobby Portis U*pts_rebs_asts": [
+        "36.5",
+        "1.0"
+    ],
+    "Bobby Portis O*rebounds": [
+        "12.5",
+        "1.0"
+    ],
+    "Bobby Portis U*rebounds": [
+        "12.5",
+        "1.0"
+    ],
+    "Bobby Portis O*rebast": [
+        "15.0",
+        "1.0"
+    ],
+    "Bobby Portis U*rebast": [
+        "15.0",
+        "1.0"
+    ],
+    "Bobby Portis O*threes": [
+        "1.5",
+        "1.25"
+    ],
+    "Bobby Portis U*threes": [
+        "1.5",
+        "0.8"
+    ],
+    "Bobby Portis O*ptsast": [
+        "23.5",
+        "1.0"
+    ],
+    "Bobby Portis U*ptsast": [
+        "23.5",
+        "1.0"
+    ],
+    "Bobby Portis O*ptsreb": [
+        "33.5",
+        "1.0"
+    ],
+    "Bobby Portis U*ptsreb": [
+        "33.5",
+        "1.0"
+    ],
+    "Bobby Portis O*period_1_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Bobby Portis U*period_1_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Bobby Portis O*fantasy_points": [
+        "41.85",
+        "1.0"
+    ],
+    "Bobby Portis U*fantasy_points": [
+        "41.85",
+        "1.0"
+    ],
+    "Bobby Portis O*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Bobby Portis U*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Bobby Portis U*double_doubles": [
+        "0.5",
+        "2.25"
+    ],
+    "Bobby Portis O*period_1_2_pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Bobby Portis U*period_1_2_pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Bobby Portis O*period_1_2_points": [
+        "10.5",
+        "1.0"
+    ],
+    "Bobby Portis U*period_1_2_points": [
+        "10.5",
+        "1.0"
+    ],
+    "Pat Connaughton O*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Pat Connaughton U*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Obi Toppin O*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Obi Toppin U*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Pat Connaughton O*pts_rebs_asts": [
+        "11.5",
+        "1.0"
+    ],
+    "Pat Connaughton U*pts_rebs_asts": [
+        "11.5",
+        "1.0"
+    ],
+    "Obi Toppin O*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Obi Toppin U*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Obi Toppin O*rebounds": [
+        "4.0",
+        "1.0"
+    ],
+    "Obi Toppin U*rebounds": [
+        "4.0",
+        "1.0"
+    ],
+    "Pat Connaughton O*rebounds": [
+        "3.0",
+        "1.0"
+    ],
+    "Pat Connaughton U*rebounds": [
+        "3.0",
+        "1.0"
+    ],
+    "Pat Connaughton O*rebast": [
+        "6.0",
+        "1.0"
+    ],
+    "Pat Connaughton U*rebast": [
+        "6.0",
+        "1.0"
+    ],
+    "Obi Toppin O*threes": [
+        "1.5",
+        "1.25"
+    ],
+    "Obi Toppin U*threes": [
+        "1.5",
+        "0.75"
+    ],
+    "Pat Connaughton O*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Pat Connaughton U*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Obi Toppin O*blocks": [
+        "0.5",
+        "1.25"
+    ],
+    "Obi Toppin U*blocks": [
+        "0.5",
+        "0.75"
+    ],
+    "Obi Toppin O*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Obi Toppin U*period_1_2_points": [
+        "4.5",
+        "1.0"
+    ],
+    "Patrick Beverley O*points": [
+        "9.0",
+        "1.0"
+    ],
+    "Patrick Beverley U*points": [
+        "9.0",
+        "1.0"
+    ],
+    "Patrick Beverley O*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Patrick Beverley U*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Patrick Beverley O*assists": [
+        "4.5",
+        "1.0"
+    ],
+    "Patrick Beverley U*assists": [
+        "4.5",
+        "1.0"
+    ],
+    "Patrick Beverley O*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Patrick Beverley U*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Patrick Beverley O*rebast": [
+        "9.5",
+        "1.0"
+    ],
+    "Patrick Beverley U*rebast": [
+        "9.5",
+        "1.0"
+    ],
+    "Patrick Beverley O*threes": [
+        "0.5",
+        "0.75"
+    ],
+    "Patrick Beverley U*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Patrick Beverley O*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Patrick Beverley U*blocks": [
+        "0.5",
+        "1.0"
+    ],
+    "Patrick Beverley O*period_1_2_points": [
+        "5.0",
+        "1.0"
+    ],
+    "Patrick Beverley U*period_1_2_points": [
+        "5.0",
+        "1.0"
+    ],
+    "Patrick Beverley O*period_1_2_pts_rebs_asts": [
+        "10.0",
+        "1.0"
+    ],
+    "Patrick Beverley U*period_1_2_pts_rebs_asts": [
+        "10.0",
+        "1.0"
+    ],
+    "Ben Sheppard O*points": [
+        "4.5",
+        "1.0"
+    ],
+    "Ben Sheppard U*points": [
+        "4.5",
+        "1.0"
+    ],
+    "Aaron Nesmith O*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Aaron Nesmith U*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Aaron Nesmith O*period_1_points": [
+        "2.5",
+        "1.0"
+    ],
+    "Aaron Nesmith U*period_1_points": [
+        "2.5",
+        "1.0"
+    ],
+    "AJ Green O*points": [
+        "5.5",
+        "1.0"
+    ],
+    "AJ Green U*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Malik Beasley O*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Malik Beasley U*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Andrew Nembhard O*points": [
+        "10.5",
+        "1.0"
+    ],
+    "Andrew Nembhard U*points": [
+        "10.5",
+        "1.0"
+    ],
+    "Andre Jackson Jr. O*points": [
+        "3.0",
+        "1.0"
+    ],
+    "Andre Jackson Jr. U*points": [
+        "3.0",
+        "1.0"
+    ],
+    "Jae Crowder O*points": [
+        "3.5",
+        "1.0"
+    ],
+    "Jae Crowder U*points": [
+        "3.5",
+        "1.0"
+    ],
+    "T.J. McConnell O*points": [
+        "8.0",
+        "1.0"
+    ],
+    "T.J. McConnell U*points": [
+        "8.0",
+        "1.0"
+    ],
+    "Andrew Nembhard O*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Andrew Nembhard U*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Malik Beasley O*pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Malik Beasley U*pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Jae Crowder O*pts_rebs_asts": [
+        "6.5",
+        "1.0"
+    ],
+    "Jae Crowder U*pts_rebs_asts": [
+        "6.5",
+        "1.0"
+    ],
+    "Aaron Nesmith O*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Aaron Nesmith U*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "T.J. McConnell O*pts_rebs_asts": [
+        "14.5",
+        "1.0"
+    ],
+    "T.J. McConnell U*pts_rebs_asts": [
+        "14.5",
+        "1.0"
+    ],
+    "Jae Crowder O*assists": [
+        "0.5",
+        "1.0"
+    ],
+    "Jae Crowder U*assists": [
+        "0.5",
+        "1.0"
+    ],
+    "T.J. McConnell O*assists": [
+        "3.5",
+        "0.85"
+    ],
+    "T.J. McConnell U*assists": [
+        "3.5",
+        "1.1"
+    ],
+    "Aaron Nesmith O*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Aaron Nesmith U*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Malik Beasley O*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Malik Beasley U*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Andre Jackson Jr. O*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "Andre Jackson Jr. U*rebounds": [
+        "3.5",
+        "1.0"
+    ],
+    "T.J. McConnell O*rebounds": [
+        "2.5",
+        "1.0"
+    ],
+    "T.J. McConnell U*rebounds": [
+        "2.5",
+        "1.0"
+    ],
+    "Jae Crowder O*rebast": [
+        "2.5",
+        "1.0"
+    ],
+    "Jae Crowder U*rebast": [
+        "2.5",
+        "1.0"
+    ],
+    "Malik Beasley O*rebast": [
+        "5.0",
+        "1.0"
+    ],
+    "Malik Beasley U*rebast": [
+        "5.0",
+        "1.0"
+    ],
+    "Ben Sheppard O*threes": [
+        "0.5",
+        "0.75"
+    ],
+    "Ben Sheppard U*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Aaron Nesmith O*threes": [
+        "2.0",
+        "1.0"
+    ],
+    "Aaron Nesmith U*threes": [
+        "2.0",
+        "1.0"
+    ],
+    "Malik Beasley O*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Malik Beasley U*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Andrew Nembhard O*threes": [
+        "1.5",
+        "1.1"
+    ],
+    "Andrew Nembhard U*threes": [
+        "1.5",
+        "0.9"
+    ],
+    "AJ Green O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "AJ Green U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Jae Crowder O*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Jae Crowder U*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Andre Jackson Jr. O*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Andre Jackson Jr. U*threes": [
+        "0.5",
+        "0.75"
+    ],
+    "T.J. McConnell O*threes": [
+        "0.5",
+        "1.5"
+    ],
+    "T.J. McConnell U*threes": [
+        "0.5",
+        "0.7"
+    ],
+    "Andrew Nembhard O*period_1_rebounds": [
+        "0.5",
+        "1.0"
+    ],
+    "Andrew Nembhard U*period_1_rebounds": [
+        "0.5",
+        "1.0"
+    ],
+    "Andrew Nembhard O*blocks": [
+        "0.5",
+        "3.0"
+    ],
+    "Andrew Nembhard O*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Andrew Nembhard U*period_1_2_pts_rebs_asts": [
+        "9.5",
+        "1.0"
+    ],
+    "Andrew Nembhard O*period_1_2_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Andrew Nembhard U*period_1_2_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Malik Beasley O*period_1_2_points": [
+        "6.0",
+        "1.0"
+    ],
+    "Malik Beasley U*period_1_2_points": [
+        "6.0",
+        "1.0"
+    ],
+    "Aaron Nesmith O*period_1_2_points": [
+        "6.5",
+        "1.0"
+    ],
+    "Aaron Nesmith U*period_1_2_points": [
+        "6.5",
+        "1.0"
+    ],
+    "Aaron Nesmith O*period_1_2_pts_rebs_asts": [
+        "10.5",
+        "1.0"
+    ],
+    "Aaron Nesmith U*period_1_2_pts_rebs_asts": [
+        "10.5",
+        "1.0"
+    ],
+    "Malik Beasley O*period_1_2_pts_rebs_asts": [
+        "9.0",
+        "1.0"
+    ],
+    "Malik Beasley U*period_1_2_pts_rebs_asts": [
+        "9.0",
+        "1.0"
+    ],
+    "Aaron Nesmith O*blocks": [
+        "0.5",
+        "0.9"
+    ],
+    "Aaron Nesmith U*blocks": [
+        "0.5",
+        "1.1"
+    ],
+    "Luka Doncic O*triple_doubles": [
+        "0.5",
+        "2.0"
+    ],
+    "Luka Doncic U*triple_doubles": [
+        "0.5",
+        "0.65"
+    ],
+    "Luka Doncic O*points": [
+        "32.5",
+        "1.0"
+    ],
+    "Luka Doncic U*points": [
+        "32.5",
+        "1.0"
+    ],
+    "Luka Doncic O*pts_rebs_asts": [
+        "51.5",
+        "1.0"
+    ],
+    "Luka Doncic U*pts_rebs_asts": [
+        "51.5",
+        "1.0"
+    ],
+    "Luka Doncic O*assists": [
+        "9.0",
+        "1.0"
+    ],
+    "Luka Doncic U*assists": [
+        "9.0",
+        "1.0"
+    ],
+    "Luka Doncic O*rebounds": [
+        "9.5",
+        "1.0"
+    ],
+    "Luka Doncic U*rebounds": [
+        "9.5",
+        "1.0"
+    ],
+    "Luka Doncic O*threes": [
+        "4.0",
+        "1.0"
+    ],
+    "Luka Doncic U*threes": [
+        "4.0",
+        "1.0"
+    ],
+    "Jayson Tatum O*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*period_1_points": [
+        "5.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*points": [
+        "26.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*points": [
+        "26.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*pts_rebs_asts": [
+        "42.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*pts_rebs_asts": [
+        "42.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Jayson Tatum U*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Jayson Tatum O*rebounds": [
+        "10.0",
+        "1.0"
+    ],
+    "Jayson Tatum U*rebounds": [
+        "10.0",
+        "1.0"
+    ],
+    "Jayson Tatum O*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*threes": [
+        "2.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*ptsast": [
+        "32.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*ptsast": [
+        "32.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*ptsreb": [
+        "37.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*ptsreb": [
+        "37.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*turnovers": [
+        "2.5",
+        "1.0"
+    ],
+    "Jayson Tatum U*turnovers": [
+        "2.5",
+        "1.0"
+    ],
+    "Jayson Tatum O*double_doubles": [
+        "0.5",
+        "0.85"
+    ],
+    "Jayson Tatum U*double_doubles": [
+        "0.5",
+        "1.2"
+    ],
+    "Jayson Tatum O*blocks": [
+        "0.5",
+        "1.05"
+    ],
+    "Jayson Tatum U*blocks": [
+        "0.5",
+        "0.9"
+    ],
+    "Bam Adebayo O*points": [
+        "21.5",
+        "1.0"
+    ],
+    "Bam Adebayo U*points": [
+        "21.5",
+        "1.0"
+    ],
+    "Bam Adebayo O*pts_rebs_asts": [
+        "37.5",
+        "1.0"
+    ],
+    "Bam Adebayo U*pts_rebs_asts": [
+        "37.5",
+        "1.0"
+    ],
+    "Bam Adebayo O*assists": [
+        "4.0",
+        "1.0"
+    ],
+    "Bam Adebayo U*assists": [
+        "4.0",
+        "1.0"
+    ],
+    "Bam Adebayo O*rebounds": [
+        "11.0",
+        "1.0"
+    ],
+    "Bam Adebayo U*rebounds": [
+        "11.0",
+        "1.0"
+    ],
+    "Bam Adebayo O*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Bam Adebayo U*rebast": [
+        "15.5",
+        "1.0"
+    ],
+    "Bam Adebayo O*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Bam Adebayo U*threes": [
+        "0.5",
+        "0.8"
+    ],
+    "Paul George O*points": [
+        "24.5",
+        "1.0"
+    ],
+    "Paul George U*points": [
+        "24.5",
+        "1.0"
+    ],
+    "Paul George O*pts_rebs_asts": [
+        "35.0",
+        "1.0"
+    ],
+    "Paul George U*pts_rebs_asts": [
+        "35.0",
+        "1.0"
+    ],
+    "Paul George O*rebounds": [
+        "5.5",
+        "0.9"
+    ],
+    "Paul George U*rebounds": [
+        "5.5",
+        "1.1"
+    ],
+    "Paul George O*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Paul George U*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Paul George O*threes": [
+        "3.5",
+        "1.1"
+    ],
+    "Paul George U*threes": [
+        "3.5",
+        "0.85"
+    ],
+    "Jaylen Brown O*points": [
+        "22.5",
+        "1.0"
+    ],
+    "Jaylen Brown U*points": [
+        "22.5",
+        "1.0"
+    ],
+    "Jaylen Brown O*pts_rebs_asts": [
+        "32.5",
+        "1.0"
+    ],
+    "Jaylen Brown U*pts_rebs_asts": [
+        "32.5",
+        "1.0"
+    ],
+    "Jaylen Brown O*rebounds": [
+        "7.0",
+        "1.0"
+    ],
+    "Jaylen Brown U*rebounds": [
+        "7.0",
+        "1.0"
+    ],
+    "Jaylen Brown O*rebast": [
+        "9.5",
+        "1.0"
+    ],
+    "Jaylen Brown U*rebast": [
+        "9.5",
+        "1.0"
+    ],
+    "Jaylen Brown O*threes": [
+        "2.0",
+        "1.0"
+    ],
+    "Jaylen Brown U*threes": [
+        "2.0",
+        "1.0"
+    ],
+    "Jaylen Brown O*ptsast": [
+        "25.5",
+        "1.0"
+    ],
+    "Jaylen Brown U*ptsast": [
+        "25.5",
+        "1.0"
+    ],
+    "Jaylen Brown O*ptsreb": [
+        "29.5",
+        "1.0"
+    ],
+    "Jaylen Brown U*ptsreb": [
+        "29.5",
+        "1.0"
+    ],
+    "Jaylen Brown O*turnovers": [
+        "2.5",
+        "1.0"
+    ],
+    "Jaylen Brown U*turnovers": [
+        "2.5",
+        "1.0"
+    ],
+    "Jaylen Brown O*blocks": [
+        "0.5",
+        "1.1"
+    ],
+    "Jaylen Brown U*blocks": [
+        "0.5",
+        "0.85"
+    ],
+    "Jaylen Brown O*double_doubles": [
+        "0.5",
+        "2.75"
+    ],
+    "James Harden O*points": [
+        "22.5",
+        "1.0"
+    ],
+    "James Harden U*points": [
+        "22.5",
+        "1.0"
+    ],
+    "James Harden O*pts_rebs_asts": [
+        "36.5",
+        "1.0"
+    ],
+    "James Harden U*pts_rebs_asts": [
+        "36.5",
+        "1.0"
+    ],
+    "James Harden O*assists": [
+        "8.0",
+        "1.0"
+    ],
+    "James Harden U*assists": [
+        "8.0",
+        "1.0"
+    ],
+    "James Harden O*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "James Harden U*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "James Harden O*rebast": [
+        "14.0",
+        "1.0"
+    ],
+    "James Harden U*rebast": [
+        "14.0",
+        "1.0"
+    ],
+    "James Harden O*threes": [
+        "3.5",
+        "1.0"
+    ],
+    "James Harden U*threes": [
+        "3.5",
+        "1.0"
+    ],
+    "Derrick White O*points": [
+        "15.5",
+        "1.0"
+    ],
+    "Derrick White U*points": [
+        "15.5",
+        "1.0"
+    ],
+    "Derrick White O*period_1_points": [
+        "3.5",
+        "1.0"
+    ],
+    "Derrick White U*period_1_points": [
+        "3.5",
+        "1.0"
+    ],
+    "Derrick White O*pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Derrick White U*pts_rebs_asts": [
+        "24.5",
+        "1.0"
+    ],
+    "Derrick White O*assists": [
+        "4.0",
+        "1.0"
+    ],
+    "Derrick White U*assists": [
+        "4.0",
+        "1.0"
+    ],
+    "Derrick White O*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Derrick White U*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Derrick White O*rebast": [
+        "8.5",
+        "1.0"
+    ],
+    "Derrick White U*rebast": [
+        "8.5",
+        "1.0"
+    ],
+    "Derrick White O*threes": [
+        "3.0",
+        "1.0"
+    ],
+    "Derrick White U*threes": [
+        "3.0",
+        "1.0"
+    ],
+    "Derrick White O*ptsast": [
+        "19.5",
+        "1.0"
+    ],
+    "Derrick White U*ptsast": [
+        "19.5",
+        "1.0"
+    ],
+    "Derrick White O*ptsreb": [
+        "20.5",
+        "1.0"
+    ],
+    "Derrick White U*ptsreb": [
+        "20.5",
+        "1.0"
+    ],
+    "Derrick White O*blocks": [
+        "0.5",
+        "0.8"
+    ],
+    "Derrick White U*blocks": [
+        "0.5",
+        "1.25"
+    ],
+    "Kyrie Irving O*points": [
+        "25.5",
+        "1.0"
+    ],
+    "Kyrie Irving U*points": [
+        "25.5",
+        "1.0"
+    ],
+    "Kyrie Irving O*pts_rebs_asts": [
+        "36.5",
+        "1.0"
+    ],
+    "Kyrie Irving U*pts_rebs_asts": [
+        "36.5",
+        "1.0"
+    ],
+    "Kyrie Irving O*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Kyrie Irving U*assists": [
+        "5.0",
+        "1.0"
+    ],
+    "Kyrie Irving O*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "Kyrie Irving U*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "Kyrie Irving O*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Kyrie Irving U*rebast": [
+        "10.5",
+        "1.0"
+    ],
+    "Kyrie Irving O*threes": [
+        "3.5",
+        "1.1"
+    ],
+    "Kyrie Irving U*threes": [
+        "3.5",
+        "0.9"
+    ],
+    "Tyler Herro O*points": [
+        "20.5",
+        "1.0"
+    ],
+    "Tyler Herro U*points": [
+        "20.5",
+        "1.0"
+    ],
+    "Tyler Herro O*pts_rebs_asts": [
+        "31.5",
+        "1.0"
+    ],
+    "Tyler Herro U*pts_rebs_asts": [
+        "31.5",
+        "1.0"
+    ],
+    "Tyler Herro O*assists": [
+        "5.5",
+        "1.0"
+    ],
+    "Tyler Herro U*assists": [
+        "5.5",
+        "1.0"
+    ],
+    "Tyler Herro O*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Tyler Herro U*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Tyler Herro O*rebast": [
+        "10.0",
+        "1.0"
+    ],
+    "Tyler Herro U*rebast": [
+        "10.0",
+        "1.0"
+    ],
+    "Tyler Herro O*threes": [
+        "3.5",
+        "1.1"
+    ],
+    "Tyler Herro U*threes": [
+        "3.5",
+        "0.85"
+    ],
+    "Russell Westbrook O*points": [
+        "8.0",
+        "1.0"
+    ],
+    "Russell Westbrook U*points": [
+        "8.0",
+        "1.0"
+    ],
+    "Russell Westbrook O*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Russell Westbrook U*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Russell Westbrook O*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Russell Westbrook U*threes": [
+        "0.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*period_1_points": [
+        "2.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*period_1_points": [
+        "2.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*points": [
+        "10.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*points": [
+        "10.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*pts_rebs_asts": [
+        "20.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*pts_rebs_asts": [
+        "20.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*assists": [
+        "4.0",
+        "1.0"
+    ],
+    "Jrue Holiday U*assists": [
+        "4.0",
+        "1.0"
+    ],
+    "Jrue Holiday O*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Jrue Holiday U*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Jrue Holiday O*rebast": [
+        "9.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*rebast": [
+        "9.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*ptsast": [
+        "15.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*ptsast": [
+        "15.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*ptsreb": [
+        "16.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*ptsreb": [
+        "16.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*turnovers": [
+        "1.5",
+        "1.0"
+    ],
+    "Jrue Holiday U*turnovers": [
+        "1.5",
+        "1.0"
+    ],
+    "Jrue Holiday O*blocks": [
+        "0.5",
+        "0.9"
+    ],
+    "Jrue Holiday U*blocks": [
+        "0.5",
+        "1.1"
+    ],
+    "Norman Powell O*points": [
+        "11.5",
+        "1.0"
+    ],
+    "Norman Powell U*points": [
+        "11.5",
+        "1.0"
+    ],
+    "Daniel Gafford O*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Daniel Gafford U*points": [
+        "7.5",
+        "1.0"
+    ],
+    "PJ Washington O*points": [
+        "10.5",
+        "1.0"
+    ],
+    "PJ Washington U*points": [
+        "10.5",
+        "1.0"
+    ],
+    "Norman Powell O*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Norman Powell U*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "PJ Washington O*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "PJ Washington U*pts_rebs_asts": [
+        "18.5",
+        "1.0"
+    ],
+    "Daniel Gafford O*pts_rebs_asts": [
+        "13.5",
+        "1.0"
+    ],
+    "Daniel Gafford U*pts_rebs_asts": [
+        "13.5",
+        "1.0"
+    ],
+    "Norman Powell O*rebounds": [
+        "2.5",
+        "1.0"
+    ],
+    "Norman Powell U*rebounds": [
+        "2.5",
+        "1.0"
+    ],
+    "Daniel Gafford O*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Daniel Gafford U*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "PJ Washington O*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "PJ Washington U*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "PJ Washington O*rebast": [
+        "7.0",
+        "1.0"
+    ],
+    "PJ Washington U*rebast": [
+        "7.0",
+        "1.0"
+    ],
+    "PJ Washington O*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "PJ Washington U*threes": [
+        "1.5",
+        "1.0"
+    ],
+    "Norman Powell O*threes": [
+        "1.5",
+        "0.8"
+    ],
+    "Norman Powell U*threes": [
+        "1.5",
+        "1.2"
+    ],
+    "Caleb Martin O*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Caleb Martin U*points": [
+        "12.5",
+        "1.0"
+    ],
+    "Caleb Martin O*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Caleb Martin U*pts_rebs_asts": [
+        "19.5",
+        "1.0"
+    ],
+    "Caris LeVert O*rebounds": [
+        "3.0",
+        "1.0"
+    ],
+    "Caris LeVert U*rebounds": [
+        "3.0",
+        "1.0"
+    ],
+    "Caleb Martin O*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Caleb Martin U*rebounds": [
+        "4.5",
+        "1.0"
+    ],
+    "Caleb Martin O*threes": [
+        "1.5",
+        "0.9"
+    ],
+    "Caleb Martin U*threes": [
+        "1.5",
+        "1.1"
+    ],
+    "Dereck Lively II O*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Dereck Lively II U*points": [
+        "7.5",
+        "1.0"
+    ],
+    "Dereck Lively II O*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Dereck Lively II U*rebounds": [
+        "5.0",
+        "1.0"
+    ],
+    "Ivica Zubac O*points": [
+        "14.5",
+        "1.0"
+    ],
+    "Ivica Zubac U*points": [
+        "14.5",
+        "1.0"
+    ],
+    "Ivica Zubac O*pts_rebs_asts": [
+        "27.5",
+        "1.0"
+    ],
+    "Ivica Zubac U*pts_rebs_asts": [
+        "27.5",
+        "1.0"
+    ],
+    "Ivica Zubac O*rebounds": [
+        "11.0",
+        "1.0"
+    ],
+    "Ivica Zubac U*rebounds": [
+        "11.0",
+        "1.0"
+    ],
+    "Ivica Zubac O*rebast": [
+        "12.5",
+        "1.0"
+    ],
+    "Ivica Zubac U*rebast": [
+        "12.5",
+        "1.0"
+    ],
+    "Terance Mann O*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Terance Mann U*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Derrick Jones Jr. O*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Derrick Jones Jr. U*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Amir Coffey O*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Amir Coffey U*points": [
+        "5.5",
+        "1.0"
+    ],
+    "Nikola Jovic O*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Nikola Jovic U*points": [
+        "9.5",
+        "1.0"
+    ],
+    "Haywood Highsmith O*points": [
+        "6.5",
+        "1.0"
+    ],
+    "Haywood Highsmith U*points": [
+        "6.5",
+        "1.0"
+    ],
+    "Terance Mann O*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Terance Mann U*pts_rebs_asts": [
+        "15.5",
+        "1.0"
+    ],
+    "Derrick Jones Jr. O*pts_rebs_asts": [
+        "14.5",
+        "1.0"
+    ],
+    "Derrick Jones Jr. U*pts_rebs_asts": [
+        "14.5",
+        "1.0"
+    ],
+    "Nikola Jovic O*pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Nikola Jovic U*pts_rebs_asts": [
+        "17.5",
+        "1.0"
+    ],
+    "Haywood Highsmith O*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Haywood Highsmith U*pts_rebs_asts": [
+        "12.5",
+        "1.0"
+    ],
+    "Haywood Highsmith O*assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Haywood Highsmith U*assists": [
+        "1.5",
+        "1.0"
+    ],
+    "Terance Mann O*rebounds": [
+        "4.0",
+        "1.0"
+    ],
+    "Terance Mann U*rebounds": [
+        "4.0",
+        "1.0"
+    ],
+    "Nikola Jovic O*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "Nikola Jovic U*rebounds": [
+        "5.5",
+        "1.0"
+    ],
+    "Derrick Jones Jr. O*rebounds": [
+        "4.0",
+        "1.0"
+    ],
+    "Derrick Jones Jr. U*rebounds": [
+        "4.0",
+        "1.0"
+    ],
+    "Amir Coffey O*rebounds": [
+        "2.5",
+        "1.0"
+    ],
+    "Amir Coffey U*rebounds": [
+        "2.5",
+        "1.0"
+    ],
+    "Nikola Jovic O*rebast": [
+        "7.5",
+        "1.0"
+    ],
+    "Nikola Jovic U*rebast": [
+        "7.5",
+        "1.0"
+    ],
+    "Terance Mann O*rebast": [
+        "5.5",
+        "1.0"
+    ],
+    "Terance Mann U*rebast": [
+        "5.5",
+        "1.0"
+    ],
+    "Haywood Highsmith O*rebast": [
+        "5.5",
+        "1.0"
+    ],
+    "Haywood Highsmith U*rebast": [
+        "5.5",
+        "1.0"
+    ],
+    "Terance Mann O*threes": [
+        "1.5",
+        "1.25"
+    ],
+    "Terance Mann U*threes": [
+        "1.5",
+        "0.75"
+    ],
+    "Derrick Jones Jr. O*threes": [
+        "0.5",
+        "0.75"
+    ],
+    "Derrick Jones Jr. U*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Amir Coffey O*threes": [
+        "0.5",
+        "0.75"
+    ],
+    "Amir Coffey U*threes": [
+        "0.5",
+        "1.25"
+    ],
+    "Nikola Jovic O*threes": [
+        "1.5",
+        "0.9"
+    ],
+    "Nikola Jovic U*threes": [
+        "1.5",
+        "1.05"
+    ],
+    "Haywood Highsmith O*threes": [
+        "1.5",
+        "1.5"
+    ],
+    "Haywood Highsmith U*threes": [
+        "1.5",
+        "0.7"
+    ]
+}

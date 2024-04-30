@@ -1,27 +1,43 @@
 import requests
 from bs4 import BeautifulSoup
+import json
+
 
 def scrape_player_props():
     url = "https://www.rotowire.com/betting/nba/player-props.php"
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
     scripts = soup.find("div", id="props-table-list").find_all("script")
-    bet_types = ['points', 'rebounds', 'assists', 'threes', 'blocks', 'steals', 'turnovers', 'ptsrebast', 'ptsreb', 'ptsast', 'rebast', 'stlblk']
+    bet_types = [
+        "points",
+        "rebounds",
+        "assists",
+        "threes",
+        "blocks",
+        "steals",
+        "turnovers",
+        "ptsrebast",
+        "ptsreb",
+        "ptsast",
+        "rebast",
+        "stlblk",
+    ]
     data_dict = {}
     null = "null"
 
-    
     for i in range(12):
         pts_script = str(scripts[i])
         data_idx = pts_script.index("data:")
-        data = pts_script[data_idx:].split("]")[0] #extracts actual data from embedded javascript script
-        data = data[7:] #gets rid of unnecessary chars at the start of string
+        data = pts_script[data_idx:].split("]")[
+            0
+        ]  # extracts actual data from embedded javascript script
+        data = data[7:]  # gets rid of unnecessary chars at the start of string
         data_lst = data.split("},")
         for player_info in data_lst:
             player_info = player_info.split(",")
             player_name = player_info[4][8:-1]
-            id_str_u = player_name + ' U*' + bet_types[i]
-            id_str_o = player_name + ' O*' + bet_types[i]
+            id_str_u = player_name + " U*" + bet_types[i]
+            id_str_o = player_name + " O*" + bet_types[i]
             data_dict[id_str_u] = {}
             data_dict[id_str_o] = {}
 
@@ -62,7 +78,10 @@ def scrape_player_props():
 
 
 def main():
-    scrape_player_props()
+    dict = scrape_player_props()
+    json_object = json.dumps(dict, indent=4)
+    with open("rotowire_results.json", "w") as f:
+        f.write(json_object)
 
 
 if __name__ == "__main__":
