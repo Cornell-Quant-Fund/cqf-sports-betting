@@ -8,7 +8,7 @@ def scrape_player_props():
     scripts = soup.find("div", id="props-table-list").find_all("script")
     bet_types = ['points', 'rebounds', 'assists', 'threes', 'blocks', 'steals', 'turnovers', 'ptsrebast', 'ptsreb', 'ptsast', 'rebast', 'stlblk']
     data_dict = {}
-    check_for_null = ("null", "")
+    null = "null"
 
     
     for i in range(12):
@@ -26,37 +26,38 @@ def scrape_player_props():
             data_dict[id_str_o] = {}
 
             player_info = sorted(player_info[9:])
-
-            betrivers_line = None if any(null in player_info[0] for null in check_for_null) else float(player_info[0].split(":")[1][1:-1])
+            
+            betrivers_line = None if null in player_info[0] else float(player_info[0].split(":")[1][1:-1])
             data_dict[id_str_o]["betrivers_line"] = betrivers_line
             data_dict[id_str_u]["betrivers_line"] = betrivers_line
-            data_dict[id_str_o]["betrivers_odds"] = None if any(null in player_info[1] for null in check_for_null) else int(player_info[1].split(":")[1][1:-1])
-            data_dict[id_str_u]["betrivers_odds"] = None if any(null in player_info[2] for null in check_for_null) else int(player_info[2].split(":")[1][1:-1])
+            data_dict[id_str_o]["betrivers_odds"] = None if null in player_info[1] else int(player_info[1].split(":")[1][1:-1])
+            data_dict[id_str_u]["betrivers_odds"] = None if null in player_info[2] else int(player_info[2].split(":")[1][1:-1])
 
-            draftkings_line = None if any(null in player_info[3] for null in check_for_null) else float(player_info[3].split(":")[1][1:-1])
+            draftkings_line = None if null in player_info[3] else float(player_info[3].split(":")[1][1:-1])
             data_dict[id_str_o]["draftkings_line"] = draftkings_line
             data_dict[id_str_u]["draftkings_line"] = draftkings_line
-            data_dict[id_str_o]["draftkings_odds"] = None if any(null in player_info[4] for null in check_for_null) else int(player_info[4].split(":")[1][1:-1])
-            data_dict[id_str_u]["draftkings_odds"] = None if any(null in player_info[5] for null in check_for_null) else int(player_info[5].split(":")[1][1:-1])
+            data_dict[id_str_o]["draftkings_odds"] = None if null in player_info[4] else int(player_info[4].split(":")[1][1:-1])
+            data_dict[id_str_u]["draftkings_odds"] = None if null in player_info[5] else int(player_info[5].split(":")[1][1:-1])
 
-            fanduel_line = None if any(null in player_info[6] for null in check_for_null) else float(player_info[6].split(":")[1][1:-1])
+            fanduel_line = None if null in player_info[6] else float(player_info[6].split(":")[1][1:-1])
             data_dict[id_str_o]["fanduel_line"] = fanduel_line
             data_dict[id_str_u]["fanduel_line"] = fanduel_line
-            data_dict[id_str_o]["fanduel_odds"] = None if any(null in player_info[7] for null in check_for_null) else int(player_info[7].split(":")[1][1:-1])
-            data_dict[id_str_u]["fanduel_odds"] = None if any(null in player_info[8] for null in check_for_null) else int(player_info[8].split(":")[1][1:-1])
+            data_dict[id_str_o]["fanduel_odds"] = None if null in player_info[7] else int(player_info[7].split(":")[1][1:-1])
+            data_dict[id_str_u]["fanduel_odds"] = None if null in player_info[8] else int(player_info[8].split(":")[1][1:-1])
             
-            mgm_line = None if any(null in player_info[9] for null in check_for_null) else float(player_info[9].split(":")[1][1:-1])
+            mgm_line = None if null in player_info[9] else float(player_info[9].split(":")[1][1:-1])
             data_dict[id_str_o]["mgm_line"] = mgm_line
             data_dict[id_str_u]["mgm_line"] = mgm_line
-            data_dict[id_str_o]["mgm_odds"] = None if any(null in player_info[10] for null in check_for_null) else int(player_info[10].split(":")[1][1:-1])
-            data_dict[id_str_u]["mgm_odds"] = None if any(null in player_info[11] for null in check_for_null) else int(player_info[11].split(":")[1][1:-1])
+            data_dict[id_str_o]["mgm_odds"] = None if null in player_info[10] else int(player_info[10].split(":")[1][1:-1])
+            data_dict[id_str_u]["mgm_odds"] = None if null in player_info[11] else int(player_info[11].split(":")[1][1:-1])
 
-            pointsbet_line = None if any(null in player_info[12] for null in check_for_null) else float(player_info[12].split(":")[1][1:-1])
+            pointsbet_line = None if null in player_info[12] else float(player_info[12].split(":")[1][1:-1])
             data_dict[id_str_o]["pointsbet_line"] = pointsbet_line
             data_dict[id_str_u]["pointsbet_line"] = pointsbet_line
-            data_dict[id_str_o]["pointsbet_odds"] = None if any(null in player_info[13] for null in check_for_null) else int(player_info[13].split(":")[1][1:-1])
-            data_dict[id_str_u]["pointsbet_odds"] = None if any(null in player_info[14] for null in check_for_null) else int(player_info[14].split(":")[1][1:-1])
+            data_dict[id_str_o]["pointsbet_odds"] = None if null in player_info[13] else int(player_info[13].split(":")[1][1:-1])
+            data_dict[id_str_u]["pointsbet_odds"] = None if null in player_info[14] else int(player_info[14].split(":")[1][1:-1])
 
+    print(data_dict)
     return data_dict
 
 
