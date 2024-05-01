@@ -39,9 +39,11 @@ sites = ["betrivers", "draftkings", "fanduel", "mgm", "pointsbet"]
 
 
 def get_average_rotowire(rotowire, udog, udog_line):
-    adjusted_odds = []
+    adjusted_odds = [None] * len(sites)
     adjusted_indices = [False] * len(sites)
-    adjusted_sites = []
+    adjusted_sites = [False] * len(sites)
+
+    adjusted_odds_for_average = []
 
     rotowire_lines = rotowire[udog_line]
     for i in range(len(sites)):
@@ -52,11 +54,13 @@ def get_average_rotowire(rotowire, udog, udog_line):
             adjusted_odd, adjusted = get_adjusted_odds(
                 float(udog[udog_line][0]), line, odds
             )
-            adjusted_odds.append(adjusted_odd)
+            adjusted_odds[i] = adjusted_odd
             adjusted_indices[i] = adjusted
-            adjusted_sites.append(site)
+            adjusted_sites[i] = True
+
+            adjusted_odds_for_average.append(adjusted_odd)
     return (
-        average_probability(adjusted_odds),
+        average_probability(adjusted_odds_for_average),
         adjusted_odds,
         adjusted_indices,
         adjusted_sites,
@@ -76,18 +80,31 @@ udog = json.load(udog_file)
 ## get output.txt
 output = open("output.txt", "w")
 
+output.write("line, threshold, probability, betrivers, draftkings, fanduel, mgm, pointsbet\n")
+
 for udog_line in udog:
     if udog_line in rotowire:
-        avg_prob, adjusted_odds, adjusted_indices, adjusted_sites = get_average_rotowire(
-            rotowire, udog, udog_line
-        )
-        assert len(adjusted_odds) == len(adjusted_sites)
+        (
+            avg_prob,
+            adjusted_odds,
+            adjusted_indices,
+            adjusted_sites,
+        ) = get_average_rotowire(rotowire, udog, udog_line)
+
         line = udog_line + ", " + udog[udog_line][0] + ", " + str(avg_prob) + ", "
-        for i in range(len(adjusted_sites)):
-            line += adjusted_sites[i] + ": " + str(adjusted_odds[i])
-            if adjusted_indices[i]:
-                line += "*"
+        # for i in range(len(adjusted_sites)):
+        #     line += adjusted_sites[i] + ": " + str(adjusted_odds[i])
+        #     if adjusted_indices[i]:
+        #         line += "*"
+        #     line += ", "
+
+        for i in range(len(sites)):
+            if adjusted_sites[i]:
+                line += str(adjusted_odds[i])
+                if adjusted_indices[i]:
+                    line += "*"
             line += ", "
+
         output.write(line + "\n")
 
 output.close()
