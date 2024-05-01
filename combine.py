@@ -40,7 +40,7 @@ def get_adjusted_odds(udog_line, line, odds, o_or_u):
 # assert(get_adjusted_odds(10, 11, -170, "U") == 130)
 
 
-def get_adjusted_lines(rotowire, udog, udog_line):
+def get_average_rotowire(rotowire, udog, udog_line):
     sites = ["betrivers", "draftkings", "fanduel", "mgm", "pointsbet"]
     adjusted_odds = []
     o_or_u = udog_line.split(" ")[-1][0]
@@ -49,11 +49,12 @@ def get_adjusted_lines(rotowire, udog, udog_line):
     for site in sites:
         line = rotowire_lines[site + "_line"]
         odds = rotowire_lines[site + "_odds"]
-        adjusted_odds.append(
-            get_adjusted_odds(float(udog[udog_line][0]), line, odds, o_or_u)
-        )
+        if line is not None and odds is not None:
+            adjusted_odds.append(
+                get_adjusted_odds(float(udog[udog_line][0]), line, odds, o_or_u)
+            )
 
-    return adjusted_odds
+    return average_probability(adjusted_odds)
 
 
 rotowire_file = open("rotowire_results.json", "r")
@@ -62,10 +63,14 @@ rotowire = json.load(rotowire_file)
 udog = json.load(udog_file)
 
 ### test cases for get_adjusted_linesf
-print(get_adjusted_lines(rotowire, udog, "Jalen Brunson U*points"))
+# print(get_average_rotowire(rotowire, udog, "Jalen Brunson U*points"))
 
 
 output = open("output.txt", "w")
 
+for udog_line in udog:
+    if udog_line in rotowire:
+        avg_prob = get_average_rotowire(rotowire, udog, udog_line)
+        output.write(udog_line + ", " + udog[udog_line][1] + ", " + str(avg_prob) + "\n")
 
 output.close()
