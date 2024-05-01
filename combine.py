@@ -17,20 +17,11 @@ def average_probability(odds_list):
 def get_adjusted_odds(udog_line, line, odds, o_or_u):
     adjust = (1 - (line / udog_line)) * 1000
 
-    if o_or_u == "O":
-        adjusted_odds = odds + adjust
-        if adjust > 0 and adjusted_odds > -100:
-            adjusted_odds = 100 + (100 + odds - adjust)
-        elif adjust < 0 and adjusted_odds < 100:
-            adjusted_odds = -100 - (100 - odds + adjust)
-    elif o_or_u == "U":
-        adjusted_odds = odds - adjust
-        if adjust > 0 and adjusted_odds < 100:
-            adjusted_odds = -100 - (100 - odds + adjust)
-        elif adjust < 0 and adjusted_odds > -100:
-            adjusted_odds = 100 + (100 + odds - adjust)
-    else:
-        print("Error: o_or_u must be 'O' or 'U'")
+    adjusted_odds = odds - adjust
+    if adjust > 0 and adjusted_odds < 100:
+        adjusted_odds = -100 - (100 - odds + adjust)
+    elif adjust < 0 and adjusted_odds > -100:
+        adjusted_odds = 100 + (100 + odds - adjust)
 
     return round(adjusted_odds, 0)
 
@@ -38,6 +29,8 @@ def get_adjusted_odds(udog_line, line, odds, o_or_u):
 ### test cases for get_adjusted_odds
 # assert(get_adjusted_odds(10, 9, 130, "U") == -170)
 # assert(get_adjusted_odds(10, 11, -170, "U") == 130)
+# print(get_adjusted_odds(10, 9, 130, "O"))
+# print(get_adjusted_odds(10, 11, 130, "O"))
 
 
 def get_average_rotowire(rotowire, udog, udog_line):
@@ -53,7 +46,6 @@ def get_average_rotowire(rotowire, udog, udog_line):
             adjusted_odds.append(
                 get_adjusted_odds(float(udog[udog_line][0]), line, odds, o_or_u)
             )
-
     return average_probability(adjusted_odds)
 
 
@@ -64,13 +56,17 @@ udog = json.load(udog_file)
 
 ### test cases for get_adjusted_linesf
 # print(get_average_rotowire(rotowire, udog, "Jalen Brunson U*points"))
+# print(get_average_rotowire(rotowire, udog, "Joel Embiid O*assists"))
 
 
+## get output.txt
 output = open("output.txt", "w")
 
 for udog_line in udog:
     if udog_line in rotowire:
         avg_prob = get_average_rotowire(rotowire, udog, udog_line)
-        output.write(udog_line + ", " + udog[udog_line][1] + ", " + str(avg_prob) + "\n")
+        output.write(
+            udog_line + ", " + udog[udog_line][0] + ", " + str(avg_prob) + "\n"
+        )
 
 output.close()
