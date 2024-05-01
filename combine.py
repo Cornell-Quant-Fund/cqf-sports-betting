@@ -14,7 +14,10 @@ def average_probability(odds_list):
     return avg_prob
 
 
-def get_adjusted_odds(udog_line, line, odds, o_or_u):
+def get_adjusted_odds(udog_line, line, odds):
+    if line == udog_line:
+        return odds, False
+
     adjust = (1 - (line / udog_line)) * 1000
 
     adjusted_odds = odds - adjust
@@ -23,7 +26,7 @@ def get_adjusted_odds(udog_line, line, odds, o_or_u):
     elif adjust < 0 and adjusted_odds > -100:
         adjusted_odds = 100 + (100 + odds - adjust)
 
-    return round(adjusted_odds, 0)
+    return round(adjusted_odds, 0), True
 
 
 ### test cases for get_adjusted_odds
@@ -32,21 +35,32 @@ def get_adjusted_odds(udog_line, line, odds, o_or_u):
 # print(get_adjusted_odds(10, 9, 130, "O"))
 # print(get_adjusted_odds(10, 11, 130, "O"))
 
+sites = ["betrivers", "draftkings", "fanduel", "mgm", "pointsbet"]
+
 
 def get_average_rotowire(rotowire, udog, udog_line):
-    sites = ["betrivers", "draftkings", "fanduel", "mgm", "pointsbet"]
     adjusted_odds = []
-    o_or_u = udog_line.split(" ")[-1][0]
+    adjusted_indices = [False] * len(sites)
+    adjusted_sites = []
 
     rotowire_lines = rotowire[udog_line]
-    for site in sites:
+    for i in range(len(sites)):
+        site = sites[i]
         line = rotowire_lines[site + "_line"]
         odds = rotowire_lines[site + "_odds"]
         if line is not None and odds is not None:
-            adjusted_odds.append(
-                get_adjusted_odds(float(udog[udog_line][0]), line, odds, o_or_u)
+            adjusted_odd, adjusted = get_adjusted_odds(
+                float(udog[udog_line][0]), line, odds
             )
-    return average_probability(adjusted_odds)
+            adjusted_odds.append(adjusted_odd)
+            adjusted_indices[i] = adjusted
+            adjusted_sites.append(site)
+    return (
+        average_probability(adjusted_odds),
+        adjusted_odds,
+        adjusted_indices,
+        adjusted_sites,
+    )
 
 
 rotowire_file = open("rotowire_results.json", "r")
@@ -64,9 +78,16 @@ output = open("output.txt", "w")
 
 for udog_line in udog:
     if udog_line in rotowire:
-        avg_prob = get_average_rotowire(rotowire, udog, udog_line)
-        output.write(
-            udog_line + ", " + udog[udog_line][0] + ", " + str(avg_prob) + "\n"
+        avg_prob, adjusted_odds, adjusted_indices, adjusted_sites = get_average_rotowire(
+            rotowire, udog, udog_line
         )
+        assert len(adjusted_odds) == len(adjusted_sites)
+        line = udog_line + ", " + udog[udog_line][0] + ", " + str(avg_prob) + ", "
+        for i in range(len(adjusted_sites)):
+            line += adjusted_sites[i] + ": " + str(adjusted_odds[i])
+            if adjusted_indices[i]:
+                line += "*"
+            line += ", "
+        output.write(line + "\n")
 
 output.close()
