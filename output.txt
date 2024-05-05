@@ -1,389 +1,390 @@
-Jayson Tatum O*points, 35.5, 0.8058715997804485
-Jayson Tatum U*points, 35.5, 0.8257090598684588
-Jayson Tatum O*assists, 5.5, 0.5074360677467363
-Jayson Tatum U*assists, 5.5, 0.5576841957553349
-Jayson Tatum O*rebounds, 10.5, 0.55055361870827
-Jayson Tatum U*rebounds, 10.5, 0.5673903277821737
-Jayson Tatum O*rebast, 15.5, 0.5452690206211332
-Jayson Tatum U*rebast, 15.5, 0.5153926456590302
-Jayson Tatum O*threes, 2.5, 0.5863222908696175
-Jayson Tatum U*threes, 2.5, 0.4772759343080747
-Jayson Tatum O*steals, 0.5, 0.6837606837606837
-Jayson Tatum U*steals, 0.5, 0.38618143629969626
-Jayson Tatum O*blocks, 0.5, 0.4975247524752475
-Jayson Tatum U*blocks, 0.5, 0.5698427382053655
-Jayson Tatum O*stlblk, 1.5, 0.5348837209302325
-Jayson Tatum U*stlblk, 1.5, 0.5454545454545454
-Jayson Tatum O*turnovers, 2.5, 0.574468085106383
-Jayson Tatum U*turnovers, 2.5, 0.5
-Bam Adebayo O*points, 21.5, 0.5657599414805587
-Bam Adebayo U*points, 21.5, 0.5504400613644311
-Bam Adebayo O*assists, 4.0, 0.8222086612520372
-Bam Adebayo U*assists, 4.0, 0.6848517210861154
-Bam Adebayo O*rebounds, 11.0, 0.673944772078187
-Bam Adebayo U*rebounds, 11.0, 0.5182121170615896
-Bam Adebayo O*rebast, 15.0, 0.7839798913560073
-Bam Adebayo U*rebast, 15.0, 0.6636943639360045
-Bam Adebayo O*threes, 0.5, 0.4109977324263039
-Bam Adebayo U*threes, 0.5, 0.6489028213166145
-Bam Adebayo O*ptsast, 25.5, 0.5993541198795286
-Bam Adebayo U*ptsast, 25.5, 0.5608666863896989
-Bam Adebayo O*ptsreb, 32.5, 0.5194810034926314
-Bam Adebayo U*ptsreb, 32.5, 0.5417693038772621
-Bam Adebayo O*steals, 0.5, 0.6620370370370371
-Bam Adebayo U*steals, 0.5, 0.4059643789327952
-Bam Adebayo O*stlblk, 1.5, 0.5652173913043478
-Bam Adebayo U*stlblk, 1.5, 0.5
-Bam Adebayo O*blocks, 0.5, 0.5737584781899089
-Bam Adebayo U*blocks, 0.5, 0.49428479433309186
-Bam Adebayo O*turnovers, 2.5, 0.43478260869565216
-Bam Adebayo U*turnovers, 2.5, 0.6363636363636364
-Jaylen Brown O*points, 23.5, 0.5218699810305029
-Jaylen Brown U*points, 23.5, 0.5299849113693911
-Jaylen Brown O*rebounds, 7.0, 0.6805398610139737
-Jaylen Brown U*rebounds, 7.0, 0.5742970311386004
-Jaylen Brown O*rebast, 9.5, 0.5467705221226348
-Jaylen Brown U*rebast, 9.5, 0.5137266689568304
-Jaylen Brown O*threes, 2.5, 0.42880062901100774
-Jaylen Brown U*threes, 2.5, 0.5751885324016839
-Jaylen Brown O*ptsast, 26.5, 0.521966855563546
-Jaylen Brown U*ptsast, 26.5, 0.5370172818433966
-Jaylen Brown O*ptsreb, 30.5, 0.5258452218096541
-Jaylen Brown U*ptsreb, 30.5, 0.5357816288048847
-Jaylen Brown O*steals, 1.5, 0.44442984569117794
-Jaylen Brown U*steals, 1.5, 0.6218403810130764
-Jaylen Brown O*stlblk, 1.5, 0.6226415094339622
-Jaylen Brown U*stlblk, 1.5, 0.4444444444444444
-Derrick White O*points, 24.5, 0.8572063903099675
-Derrick White U*points, 11.5, 0.15283022475374852
-Derrick White O*assists, 4.0, 0.44197900610260754
-Derrick White U*assists, 4.0, 0.44843825048436214
-Derrick White O*rebounds, 4.5, 0.5289990391205395
-Derrick White U*rebounds, 4.5, 0.5363475637649444
-Derrick White O*rebast, 8.5, 0.5505050505050505
-Derrick White U*rebast, 8.5, 0.5097383376746389
-Derrick White O*threes, 3.0, 0.3031117478034459
-Derrick White U*threes, 3.0, 0.371641147367114
-Derrick White O*ptsast, 20.5, 0.5168559175189533
-Derrick White U*ptsast, 20.5, 0.5419309372797745
-Derrick White O*steals, 0.5, 0.6550698780850431
-Derrick White U*steals, 0.5, 0.41852727431923653
-Derrick White O*turnovers, 1.5, 0.5
-Derrick White U*turnovers, 1.5, 0.574468085106383
-Derrick White O*stlblk, 1.5, 0.6226415094339622
-Derrick White U*stlblk, 1.5, 0.4444444444444444
-Tyler Herro O*points, 20.5, 0.4855829850873693
-Tyler Herro U*points, 20.5, 0.48407724508872285
-Tyler Herro O*rebast, 10.5, 0.5133012577259739
-Tyler Herro U*rebast, 10.5, 0.5465432749287547
-Tyler Herro O*threes, 3.0, 0.1694686587378258
-Tyler Herro U*threes, 3.0, 0.3236502602576342
-Tyler Herro O*ptsreb, 25.5, 0.47365669918455233
-Tyler Herro U*ptsreb, 25.5, 0.501062247644289
-Tyler Herro O*ptsast, 25.5, 0.4781203309964372
-Tyler Herro U*ptsast, 25.5, 0.46296881584492205
-Tyler Herro O*steals, 0.5, 0.5585005057165628
-Tyler Herro U*steals, 0.5, 0.5078994552886679
-Tyler Herro O*blocks, 0.5, 0.17391304347826086
-Tyler Herro O*stlblk, 0.5, 0.6226415094339622
-Tyler Herro U*stlblk, 0.5, 0.4444444444444444
-Tyler Herro O*turnovers, 3.5, 0.46511627906976744
-Tyler Herro U*turnovers, 3.5, 0.6078431372549019
-Jrue Holiday O*points, 11.5, 0.5316774708665766
-Jrue Holiday U*points, 11.5, 0.516027711820591
-Jrue Holiday O*rebounds, 5.0, 0.1974749904657985
-Jrue Holiday U*rebounds, 5.0, 0.3804676504473664
-Jrue Holiday O*rebast, 9.5, 0.5374005839122118
-Jrue Holiday U*rebast, 9.5, 0.5242664688363492
-Jrue Holiday O*threes, 1.5, 0.5882854692444756
-Jrue Holiday U*threes, 1.5, 0.47318520511726775
-Jrue Holiday O*steals, 1.5, 0.46915553722133413
-Jrue Holiday U*steals, 1.5, 0.5985774360041076
-Jrue Holiday O*stlblk, 2.5, 0.43478260869565216
-Jrue Holiday U*stlblk, 2.5, 0.6226415094339622
-Al Horford O*points, 9.5, 0.47408093521368916
-Al Horford U*points, 9.5, 0.48019384764414863
-Al Horford O*rebounds, 8.0, 0.5652945083400592
-Al Horford U*rebounds, 8.0, 0.49283425850558754
-Al Horford O*rebast, 10.5, 0.5638521947160391
-Al Horford U*rebast, 10.5, 0.5
-Al Horford O*threes, 1.5, 0.5771414223588136
-Al Horford U*threes, 1.5, 0.487024282842735
-Al Horford O*ptsreb, 17.5, 0.5097799753763057
-Al Horford U*ptsreb, 17.5, 0.4906150934851523
-Al Horford O*steals, 0.5, 0.6
-Al Horford U*steals, 0.5, 0.46511627906976744
-Al Horford O*blocks, 0.5, 0.5938375350140056
-Al Horford U*blocks, 0.5, 0.4729427549194991
-Al Horford O*stlblk, 1.5, 0.5348837209302325
-Al Horford U*stlblk, 1.5, 0.5348837209302325
-Caleb Martin O*points, 12.5, 0.45873845251629736
-Caleb Martin U*points, 12.5, 0.508142277297724
-Caleb Martin O*threes, 1.5, 0.5886724293787664
-Caleb Martin U*threes, 1.5, 0.472876178089839
-Caleb Martin O*steals, 0.5, 0.623868778280543
-Caleb Martin U*steals, 0.5, 0.44094794094794093
-Caleb Martin O*stlblk, 1.5, 0.4444444444444444
-Caleb Martin U*stlblk, 1.5, 0.6226415094339622
-Caleb Martin O*turnovers, 1.5, 0.45454545454545453
-Caleb Martin U*turnovers, 1.5, 0.6153846153846154
-Haywood Highsmith O*points, 6.5, 0.4779986139477126
-Haywood Highsmith U*points, 6.5, 0.46187107307178543
-Payton Pritchard O*points, 6.5, 0.5153296659927018
-Payton Pritchard U*points, 6.5, 0.5431039959341846
-Sam Hauser O*points, 6.0, 0.24681144335456523
-Sam Hauser U*points, 6.0, 0.39341094368555285
-Nikola Jovic O*points, 8.5, 0.4606218666541072
-Nikola Jovic U*points, 8.5, 0.4087325400243162
-Delon Wright O*points, 5.5, 0.5180381633870006
-Delon Wright U*points, 5.5, 0.5502120699021135
-Haywood Highsmith O*rebounds, 4.0, 0.8209754552803442
-Haywood Highsmith U*rebounds, 4.0, 0.7347673746935897
-Nikola Jovic O*rebounds, 5.5, 0.49515466150904236
-Nikola Jovic U*rebounds, 5.5, 0.5682635518525647
-Delon Wright O*rebounds, 3.5, 0.5259746713235085
-Delon Wright U*rebounds, 3.5, 0.5362133843924103
-Payton Pritchard O*rebast, 5.5, 0.574468085106383
-Payton Pritchard U*rebast, 5.5, 0.5
-Delon Wright O*rebast, 6.0, 0.19980518495452987
-Delon Wright U*rebast, 6.0, 0.4388075213148829
-Sam Hauser O*threes, 1.5, 0.6126683879658734
-Sam Hauser U*threes, 1.5, 0.44532794976232104
-Nikola Jovic O*threes, 1.5, 0.5469415293561152
-Nikola Jovic U*threes, 1.5, 0.515609817589621
-Haywood Highsmith O*threes, 1.5, 0.35379682126591694
-Haywood Highsmith U*threes, 1.5, 0.6313663737392551
-Payton Pritchard O*threes, 1.5, 0.40408163265306124
-Payton Pritchard U*threes, 1.5, 0.6490147783251232
-Delon Wright O*threes, 0.5, 0.5928711980660033
-Delon Wright U*threes, 0.5, 0.4689754689754689
-Delon Wright O*ptsast, 7.5, 0.37931507386074215
-Delon Wright U*ptsast, 7.5, 0.4236111111111111
-Delon Wright O*ptsreb, 9.0, 0.21929824561403508
-Delon Wright U*ptsreb, 9.0, 0.44748328194450004
-Haywood Highsmith O*steals, 0.5, 0.5959183673469388
-Haywood Highsmith U*steals, 0.5, 0.47326023718952787
-Nikola Jovic O*steals, 0.5, 0.6168526130358192
-Nikola Jovic U*steals, 0.5, 0.44851166532582465
-Payton Pritchard O*steals, 0.5, 0.43478260869565216
-Payton Pritchard U*steals, 0.5, 0.6363636363636364
-Sam Hauser O*steals, 0.5, 0.45454545454545453
-Sam Hauser U*steals, 0.5, 0.6153846153846154
-Delon Wright O*steals, 0.5, 0.6666666666666666
-Delon Wright U*steals, 0.5, 0.40816326530612246
-Sam Hauser O*blocks, 0.5, 0.24390243902439024
-Haywood Highsmith O*blocks, 0.5, 0.35714285714285715
-Haywood Highsmith U*blocks, 0.5, 0.7142857142857143
-Haywood Highsmith O*stlblk, 1.5, 0.37735849056603776
-Haywood Highsmith U*stlblk, 1.5, 0.6923076923076923
-Nikola Jovic O*blocks, 0.5, 0.37037037037037035
-Nikola Jovic U*blocks, 0.5, 0.7142857142857143
-Sam Hauser O*stlblk, 0.5, 0.574468085106383
-Sam Hauser U*stlblk, 0.5, 0.5
-Payton Pritchard O*stlblk, 0.5, 0.47619047619047616
-Payton Pritchard U*stlblk, 0.5, 0.6
-Nikola Jovic O*stlblk, 1.5, 0.40816326530612246
-Nikola Jovic U*stlblk, 1.5, 0.6666666666666666
-Nikola Jovic O*turnovers, 1.5, 0.37037037037037035
-Nikola Jovic U*turnovers, 1.5, 0.6923076923076923
-Delon Wright O*turnovers, 0.5, 0.425531914893617
-Delon Wright U*turnovers, 0.5, 0.6491228070175439
-Delon Wright O*blocks, 0.5, 0.39215686274509803
-Delon Wright U*blocks, 0.5, 0.6774193548387096
-Delon Wright O*stlblk, 1.5, 0.46511627906976744
-Delon Wright U*stlblk, 1.5, 0.6
-Luka Doncic O*points, 39.5, 0.8211600298058613
-Luka Doncic U*points, 39.5, 0.8239306668519235
-Luka Doncic O*assists, 9.0, 0.2156179378256479
-Luka Doncic U*assists, 9.0, 0.4087187459116993
-Luka Doncic O*rebounds, 9.5, 0.5299948152239196
-Luka Doncic U*rebounds, 9.5, 0.5341705147760435
-Luka Doncic O*rebast, 19.0, 0.5044877832567162
-Luka Doncic U*rebast, 19.0, 0.5908170361362853
-Luka Doncic O*threes, 4.0, 0.7010264163337857
-Luka Doncic U*threes, 4.0, 0.5640928479891795
-Luka Doncic O*steals, 1.5, 0.45464566297899633
-Luka Doncic U*steals, 1.5, 0.611876951138237
-Luka Doncic O*stlblk, 1.5, 0.6363636363636364
-Luka Doncic U*stlblk, 1.5, 0.43478260869565216
-Paul George O*points, 24.5, 0.5273796177774392
-Paul George U*points, 24.5, 0.528450106380258
-Paul George O*assists, 4.5, 0.4925925925925926
-Paul George U*assists, 4.5, 0.5684136426410451
-Paul George O*rebounds, 5.5, 0.5035011404254138
-Paul George U*rebounds, 5.5, 0.41045621864759685
-Paul George O*rebast, 10.5, 0.5154748304500779
-Paul George U*rebast, 10.5, 0.5461070922514728
-Paul George O*threes, 3.5, 0.48972793409766285
-Paul George U*threes, 3.5, 0.5743694316575565
-Paul George O*ptsast, 29.5, 0.6044291655134177
-Paul George U*ptsast, 29.5, 0.6185397217537275
-Paul George O*ptsreb, 30.5, 0.5399571049318591
-Paul George U*ptsreb, 30.5, 0.524206511009276
-Paul George O*blocks, 0.5, 0.563946097126875
-Paul George U*blocks, 0.5, 0.5024630541871922
-Paul George O*turnovers, 2.5, 0.5918367346938775
-Paul George U*turnovers, 2.5, 0.47619047619047616
-Paul George O*stlblk, 2.5, 0.45454545454545453
-Paul George U*stlblk, 2.5, 0.6153846153846154
-James Harden O*points, 30.5, 0.8385704807539899
-James Harden U*points, 18.5, 0.25703420745867434
-James Harden O*assists, 8.0, 0.5649747054883524
-James Harden U*assists, 8.0, 0.49852838515090764
-James Harden O*rebounds, 5.5, 0.5522849581325244
-James Harden U*rebounds, 5.5, 0.5113783089308213
-James Harden O*rebast, 13.5, 0.5628019323671497
-James Harden U*rebast, 13.5, 0.4957135957498189
-James Harden O*threes, 3.5, 0.42213461170649247
-James Harden U*threes, 3.5, 0.5916884948239931
-James Harden O*ptsast, 30.5, 0.6020165441829092
-James Harden U*ptsast, 30.5, 0.6201847396715079
-James Harden O*turnovers, 2.5, 0.6
-James Harden U*turnovers, 2.5, 0.46511627906976744
-James Harden O*stlblk, 1.5, 0.6153846153846154
-James Harden U*stlblk, 1.5, 0.45454545454545453
-James Harden O*blocks, 0.5, 0.5850574778337888
-James Harden U*blocks, 0.5, 0.4808649262319804
-Kyrie Irving O*points, 29.5, 0.7857477003513923
-Kyrie Irving U*points, 29.5, 0.7829429123805449
-Kyrie Irving O*rebast, 10.0, 0.21967299799107579
-Kyrie Irving U*rebast, 10.0, 0.4631427762268884
-Kyrie Irving O*threes, 3.5, 0.4900577276570611
-Kyrie Irving U*threes, 3.5, 0.574414060051794
-Russell Westbrook O*points, 8.0, 0.32351516539016534
-Russell Westbrook U*points, 8.0, 0.42066860248678434
-Russell Westbrook O*rebounds, 3.5, 0.5621553923417636
-Russell Westbrook U*rebounds, 3.5, 0.5006349994266783
-Russell Westbrook O*rebast, 7.0, 0.4069326883972193
-Russell Westbrook U*rebast, 7.0, 0.4972947426367662
-Russell Westbrook O*threes, 0.5, 0.5120015485869144
-Russell Westbrook U*threes, 0.5, 0.5488215488215488
-Russell Westbrook O*steals, 1.5, 0.3660459037817529
-Russell Westbrook U*steals, 1.5, 0.699894194187434
-Russell Westbrook O*blocks, 0.5, 0.3333333333333333
-Russell Westbrook U*blocks, 0.5, 0.7333333333333333
-Russell Westbrook O*turnovers, 1.5, 0.6
-Russell Westbrook U*turnovers, 1.5, 0.47619047619047616
-Russell Westbrook O*stlblk, 1.5, 0.5
-Russell Westbrook U*stlblk, 1.5, 0.574468085106383
-Norman Powell O*points, 11.5, 0.46663908200868515
-Norman Powell U*points, 11.5, 0.4765626688416208
-Daniel Gafford O*points, 7.5, 0.5423172562694947
-Daniel Gafford U*points, 7.5, 0.5149435873819941
-Daniel Gafford O*rebounds, 5.0, 0.3174859182492771
-Daniel Gafford U*rebounds, 5.0, 0.4085581428864164
-Norman Powell O*threes, 2.0, 0.8618197278911565
-Norman Powell U*threes, 2.0, 0.7591521043766558
-Norman Powell O*steals, 0.5, 0.5555555555555556
-Norman Powell U*steals, 0.5, 0.5238095238095238
-Norman Powell O*blocks, 0.5, 0.21052631578947367
-Norman Powell O*stlblk, 0.5, 0.6363636363636364
-Norman Powell U*stlblk, 0.5, 0.43478260869565216
-Josh Green O*points, 4.5, 0.5073330145066156
-Josh Green U*points, 4.5, 0.559857730070496
-Josh Green O*threes, 0.5, 0.5222832722832723
-Josh Green U*threes, 0.5, 0.5397369925671812
-Josh Green O*steals, 0.5, 0.5652173913043478
-Josh Green U*steals, 0.5, 0.5121951219512195
-Josh Green O*blocks, 0.5, 0.2222222222222222
-Josh Green O*stlblk, 0.5, 0.6491228070175439
-Josh Green U*stlblk, 0.5, 0.425531914893617
-Ivica Zubac O*points, 14.5, 0.5695597932217513
-Ivica Zubac U*points, 14.5, 0.5461296815177858
-Ivica Zubac O*rebounds, 10.5, 0.5450848219301202
-Ivica Zubac U*rebounds, 10.5, 0.5195070874989584
-Ivica Zubac O*rebast, 12.0, 0.22288874370599143
-Ivica Zubac U*rebast, 12.0, 0.4872657077028458
-Ivica Zubac O*ptsreb, 25.5, 0.5880442124498969
-Ivica Zubac U*ptsreb, 25.5, 0.5527254864903874
-Ivica Zubac O*blocks, 1.5, 0.37362106309820575
-Ivica Zubac U*blocks, 1.5, 0.6922591297591297
-Ivica Zubac O*stlblk, 2.0, 0.8620689655172413
-Ivica Zubac U*stlblk, 2.0, 0.7590361445783133
-Terance Mann O*points, 9.5, 0.5163208466935898
-Terance Mann U*points, 9.5, 0.5292929292929294
-Amir Coffey O*points, 5.5, 0.5438421776449945
-Amir Coffey U*points, 5.5, 0.5221736925618753
-Mason Plumlee O*points, 3.5, 0.5664667666166916
-Mason Plumlee U*points, 3.5, 0.49673202614379086
-Terance Mann O*rebounds, 4.0, 0.5681991232648255
-Terance Mann U*rebounds, 4.0, 0.5573463573463574
-Terance Mann O*rebast, 6.0, 0.8059725086945394
-Terance Mann U*rebast, 6.0, 0.7176848684986437
-Amir Coffey O*threes, 0.5, 0.6695918949771689
-Amir Coffey U*threes, 0.5, 0.38943742824339844
-Terance Mann O*threes, 1.5, 0.401200358083475
-Terance Mann U*threes, 1.5, 0.6597665311335262
-Mason Plumlee O*steals, 0.5, 0.3333333333333333
-Mason Plumlee U*steals, 0.5, 0.7333333333333333
-Amir Coffey O*steals, 0.5, 0.5121951219512195
-Amir Coffey U*steals, 0.5, 0.5555555555555556
-Terance Mann O*steals, 0.5, 0.5833333333333334
-Terance Mann U*steals, 0.5, 0.4878048780487805
-Mason Plumlee O*blocks, 0.5, 0.38461538461538464
-Mason Plumlee U*blocks, 0.5, 0.6923076923076923
-Mason Plumlee O*stlblk, 0.5, 0.574468085106383
-Mason Plumlee U*stlblk, 0.5, 0.5
-Terance Mann O*blocks, 0.5, 0.22727272727272727
-Terance Mann O*stlblk, 0.5, 0.6666666666666666
-Terance Mann U*stlblk, 0.5, 0.40816326530612246
-Amir Coffey O*blocks, 0.5, 0.2702702702702703
-Amir Coffey U*blocks, 0.5, 0.8
-Amir Coffey O*stlblk, 0.5, 0.6363636363636364
-Amir Coffey U*stlblk, 0.5, 0.43478260869565216
-Luka Doncic O*ptsast, 42.5, 0.5347891462755283
-Luka Doncic U*ptsast, 42.5, 0.5271101114738521
-Luka Doncic O*ptsreb, 42.5, 0.5247533499454202
-Luka Doncic U*ptsreb, 42.5, 0.5083520115357494
-Luka Doncic O*blocks, 0.5, 0.5048543689320389
-Luka Doncic U*blocks, 0.5, 0.5636363636363636
-Jayson Tatum O*ptsast, 32.5, 0.5347159300647673
-Jayson Tatum U*ptsast, 32.5, 0.5245617994433159
-Jayson Tatum O*ptsreb, 37.5, 0.5258452218096541
-Jayson Tatum U*ptsreb, 37.5, 0.5357816288048847
-Paul George O*steals, 1.5, 0.497552768189301
-Paul George U*steals, 1.5, 0.572552490228035
-Jaylen Brown O*blocks, 0.5, 0.46511627906976744
-Jaylen Brown U*blocks, 0.5, 0.6
-Jaylen Brown O*turnovers, 2.5, 0.5454545454545454
-Jaylen Brown U*turnovers, 2.5, 0.5238095238095238
-James Harden O*ptsreb, 28.5, 0.6476545406587058
-James Harden U*ptsreb, 28.5, 0.6609583994102601
-James Harden O*steals, 1.5, 0.35886818495514144
-James Harden U*steals, 1.5, 0.7085137085137085
-Derrick White O*ptsreb, 20.5, 0.5442945564025146
-Derrick White U*ptsreb, 20.5, 0.5167553728802872
-Derrick White O*blocks, 0.5, 0.6687493945558461
-Derrick White U*blocks, 0.5, 0.4000170677590032
-Kyrie Irving O*ptsast, 30.5, 0.5102072532254314
-Kyrie Irving U*ptsast, 30.5, 0.5141091044595949
-Kyrie Irving O*ptsreb, 30.5, 0.5051679586563308
-Kyrie Irving U*ptsreb, 30.5, 0.48007641444386107
-Kyrie Irving O*steals, 1.5, 0.5474315015599419
-Kyrie Irving U*steals, 1.5, 0.5190915535574062
-Kyrie Irving O*blocks, 0.5, 0.37037037037037035
-Kyrie Irving U*blocks, 0.5, 0.7142857142857143
-Kyrie Irving O*stlblk, 2.0, 0.8666666666666667
-Kyrie Irving U*stlblk, 2.0, 0.7530864197530864
-Kyrie Irving O*turnovers, 2.5, 0.5
-Kyrie Irving U*turnovers, 2.5, 0.5652173913043478
-Jrue Holiday O*assists, 4.0, 0.18609072827517542
-Jrue Holiday U*assists, 4.0, 0.3577007664045717
-Jrue Holiday O*ptsast, 15.5, 0.5541378699273436
-Jrue Holiday U*ptsast, 15.5, 0.5040650406504065
-Jrue Holiday O*ptsreb, 16.5, 0.5579315012953456
-Jrue Holiday U*ptsreb, 16.5, 0.5048599372132335
-Jrue Holiday O*turnovers, 1.5, 0.5555555555555556
-Jrue Holiday U*turnovers, 1.5, 0.5121951219512195
-Jrue Holiday O*blocks, 0.5, 0.6
-Jrue Holiday U*blocks, 0.5, 0.47619047619047616
-Daniel Gafford O*steals, 0.5, 0.5121951219512195
-Daniel Gafford U*steals, 0.5, 0.5555555555555556
-Daniel Gafford O*blocks, 1.5, 0.40414227706586514
-Daniel Gafford U*blocks, 1.5, 0.6627735034955432
-Daniel Gafford O*stlblk, 1.5, 0.6153846153846154
-Daniel Gafford U*stlblk, 1.5, 0.45454545454545453
-Caleb Martin O*blocks, 0.5, 0.425531914893617
-Caleb Martin U*blocks, 0.5, 0.6363636363636364
-Ivica Zubac O*turnovers, 1.5, 0.574468085106383
-Ivica Zubac U*turnovers, 1.5, 0.5
+line, threshold, probability, betrivers, draftkings, fanduel, mgm, pointsbet
+Jayson Tatum O*points, 35.5, 0.8058715997804485, -287.0*, -527.0*, -325.0*, -530.0*, -530.0*, 
+Jayson Tatum U*points, 35.5, 0.8257090598684588, -292.0*, -543.0*, -553.0*, -550.0*, -550.0*, 
+Jayson Tatum O*assists, 5.5, 0.5074360677467363, 102, 105, -113, 100, -110, 
+Jayson Tatum U*assists, 5.5, 0.5576841957553349, -137, -125, -115, -135, -120, 
+Jayson Tatum O*rebounds, 10.5, 0.55055361870827, 112, 114, -437.0*, -105, 105, 
+Jayson Tatum U*rebounds, 10.5, 0.5673903277821737, 114, -135, -183.0*, -130, -140, 
+Jayson Tatum O*rebast, 15.5, 0.5452690206211332, , -122, -113, -120, -125, 
+Jayson Tatum U*rebast, 15.5, 0.5153926456590302, , 102, -113, -110, -105, 
+Jayson Tatum O*threes, 2.5, 0.5863222908696175, -143, -135, -146, -145, -140, 
+Jayson Tatum U*threes, 2.5, 0.4772759343080747, 110, 114, 114, 105, 105, 
+Jayson Tatum O*steals, 0.5, 0.6837606837606837, -225, , -200, -225, , 
+Jayson Tatum U*steals, 0.5, 0.38618143629969626, 163, , 154, 160, , 
+Jayson Tatum O*blocks, 0.5, 0.4975247524752475, , , 102, 100, , 
+Jayson Tatum U*blocks, 0.5, 0.5698427382053655, , , -130, -135, , 
+Jayson Tatum O*stlblk, 1.5, 0.5348837209302325, , , , -115, , 
+Jayson Tatum U*stlblk, 1.5, 0.5454545454545454, , , , -120, , 
+Jayson Tatum O*turnovers, 2.5, 0.574468085106383, , , , -135, , 
+Jayson Tatum U*turnovers, 2.5, 0.5, , , , 100, , 
+Bam Adebayo O*points, 21.5, 0.5657599414805587, -103, 102, -377.0*, -110, -105, 
+Bam Adebayo U*points, 21.5, 0.5504400613644311, -104, -122, -145.0*, -120, -125, 
+Bam Adebayo O*assists, 4.0, 0.8222086612520372, -466.0*, -450.0*, -467.0*, -475.0*, -455.0*, 
+Bam Adebayo U*assists, 4.0, 0.6848517210861154, -219.0*, -220.0*, -213.0*, -210.0*, -225.0*, 
+Bam Adebayo O*rebounds, 11.0, 0.673944772078187, 365.0*, -365.0*, -373.0*, -380.0*, -375.0*, 
+Bam Adebayo U*rebounds, 11.0, 0.5182121170615896, 347.0*, -145.0*, -145.0*, -145.0*, -145.0*, 
+Bam Adebayo O*rebast, 15.0, 0.7839798913560073, , -363.0*, -358.0*, -373.0*, -358.0*, 
+Bam Adebayo U*rebast, 15.0, 0.6636943639360045, , -123.0*, -335.0*, -128.0*, -338.0*, 
+Bam Adebayo O*threes, 0.5, 0.4109977324263039, , 145, , 140, 145, 
+Bam Adebayo U*threes, 0.5, 0.6489028213166145, , -175, , -190, -190, 
+Bam Adebayo O*ptsast, 25.5, 0.5993541198795286, , 100, -367.0*, , -105, 
+Bam Adebayo U*ptsast, 25.5, 0.5608666863896989, , -120, -139.0*, , -125, 
+Bam Adebayo O*ptsreb, 32.5, 0.5194810034926314, , 100, -108, -110, -115, 
+Bam Adebayo U*ptsreb, 32.5, 0.5417693038772621, , -120, -118, -120, -115, 
+Bam Adebayo O*steals, 0.5, 0.6620370370370371, -200, , -188, -200, , 
+Bam Adebayo U*steals, 0.5, 0.4059643789327952, 148, , 146, 145, , 
+Bam Adebayo O*stlblk, 1.5, 0.5652173913043478, , , , -130, , 
+Bam Adebayo U*stlblk, 1.5, 0.5, , , , 100, , 
+Bam Adebayo O*blocks, 0.5, 0.5737584781899089, -139, , -130, -135, , 
+Bam Adebayo U*blocks, 0.5, 0.49428479433309186, 105, , 102, 100, , 
+Bam Adebayo O*turnovers, 2.5, 0.43478260869565216, , , , 130, , 
+Bam Adebayo U*turnovers, 2.5, 0.6363636363636364, , , , -175, , 
+Jaylen Brown O*points, 23.5, 0.5218699810305029, -105, -108, -108, -110, -115, 
+Jaylen Brown U*points, 23.5, 0.5299849113693911, 100, -112, -118, -120, -115, 
+Jaylen Brown O*rebounds, 7.0, 0.6805398610139737, 396.0*, -396.0*, -386.0*, -421.0*, -401.0*, 
+Jaylen Brown U*rebounds, 7.0, 0.5742970311386004, 383.0*, -166.0*, -382.0*, -161.0*, -171.0*, 
+Jaylen Brown O*rebast, 9.5, 0.5467705221226348, , -120, -113, -125, -125, 
+Jaylen Brown U*rebast, 9.5, 0.5137266689568304, , 100, -113, -105, -105, 
+Jaylen Brown O*threes, 2.5, 0.42880062901100774, 148, 130, 140, 120, 130, 
+Jaylen Brown U*threes, 2.5, 0.5751885324016839, 163, -155, -180, -160, -170, 
+Jaylen Brown O*ptsast, 26.5, 0.521966855563546, , -102, -111, , -115, 
+Jaylen Brown U*ptsast, 26.5, 0.5370172818433966, , -118, -115, , -115, 
+Jaylen Brown O*ptsreb, 30.5, 0.5258452218096541, , -110, -104, -115, -115, 
+Jaylen Brown U*ptsreb, 30.5, 0.5357816288048847, , -110, -122, -115, -115, 
+Jaylen Brown O*steals, 1.5, 0.44442984569117794, 115, , 136, 125, , 
+Jaylen Brown U*steals, 1.5, 0.6218403810130764, -155, , -174, -165, , 
+Jaylen Brown O*stlblk, 1.5, 0.6226415094339622, , , , -165, , 
+Jaylen Brown U*stlblk, 1.5, 0.4444444444444444, , , , 125, , 
+Derrick White O*points, 24.5, 0.8572063903099675, -636.0*, -427.0*, -697.0*, -632.0*, -692.0*, 
+Derrick White U*points, 11.5, 0.15283022475374852, 742.0*, 515.0*, 650.0*, 505.0*, 443.0*, 
+Derrick White O*assists, 4.0, 0.44197900610260754, 450.0*, -495.0*, 449.0*, -490.0*, 445.0*, 
+Derrick White U*assists, 4.0, 0.44843825048436214, 465.0*, -183.0*, 167.0*, -200.0*, 165.0*, 
+Derrick White O*rebounds, 4.5, 0.5289990391205395, -121, -105, -102, -120, -115, 
+Derrick White U*rebounds, 4.5, 0.5363475637649444, -109, -115, -125, -115, -115, 
+Derrick White O*rebast, 8.5, 0.5505050505050505, , -120, -120, -125, -125, 
+Derrick White U*rebast, 8.5, 0.5097383376746389, , 100, -106, -105, -105, 
+Derrick White O*threes, 3.0, 0.3031117478034459, 490.0*, 509.0*, -547.0*, 492.0*, 497.0*, 
+Derrick White U*threes, 3.0, 0.371641147367114, 527.0*, 197.0*, -227.0*, 202.0*, 197.0*, 
+Derrick White O*ptsast, 20.5, 0.5168559175189533, , -105, -106, , -110, 
+Derrick White U*ptsast, 20.5, 0.5419309372797745, , -115, -120, , -120, 
+Derrick White O*steals, 0.5, 0.6550698780850431, -195, , , -185, , 
+Derrick White U*steals, 0.5, 0.41852727431923653, 143, , , 135, , 
+Derrick White O*turnovers, 1.5, 0.5, , , , 100, , 
+Derrick White U*turnovers, 1.5, 0.574468085106383, , , , -135, , 
+Derrick White O*stlblk, 1.5, 0.6226415094339622, , , , -165, , 
+Derrick White U*stlblk, 1.5, 0.4444444444444444, , , , 125, , 
+Tyler Herro O*points, 20.5, 0.4855829850873693, 144.0*, -115, -122, -110, 144.0*, 
+Tyler Herro U*points, 20.5, 0.48407724508872285, 146.0*, -105, -104, -120, 124.0*, 
+Tyler Herro O*rebast, 10.5, 0.5133012577259739, , 105, -113, 100, -115, 
+Tyler Herro U*rebast, 10.5, 0.5465432749287547, , -125, -113, -130, -115, 
+Tyler Herro O*threes, 3.0, 0.1694686587378258, 477.0*, 503.0*, 487.0*, 492.0*, 492.0*, 
+Tyler Herro U*threes, 3.0, 0.3236502602576342, 224.0*, 205.0*, 213.0*, 202.0*, 202.0*, 
+Tyler Herro O*ptsreb, 25.5, 0.47365669918455233, , -105, 137.0*, -110, 129.0*, 
+Tyler Herro U*ptsreb, 25.5, 0.501062247644289, , -115, 114.0*, -120, 119.0*, 
+Tyler Herro O*ptsast, 25.5, 0.4781203309964372, , -120, 126.0*, , 124.0*, 
+Tyler Herro U*ptsast, 25.5, 0.46296881584492205, , 100, 126.0*, , 124.0*, 
+Tyler Herro O*steals, 0.5, 0.5585005057165628, -141, , -115, -125, , 
+Tyler Herro U*steals, 0.5, 0.5078994552886679, 106, , -111, -105, , 
+Tyler Herro O*blocks, 0.5, 0.17391304347826086, , , , 475, , 
+Tyler Herro O*stlblk, 0.5, 0.6226415094339622, , , , -165, , 
+Tyler Herro U*stlblk, 0.5, 0.4444444444444444, , , , 125, , 
+Tyler Herro O*turnovers, 3.5, 0.46511627906976744, , , , 115, , 
+Tyler Herro U*turnovers, 3.5, 0.6078431372549019, , , , -155, , 
+Jrue Holiday O*points, 11.5, 0.5316774708665766, -108, -112, -113, -120, -115, 
+Jrue Holiday U*points, 11.5, 0.516027711820591, 112, -108, -113, -110, -115, 
+Jrue Holiday O*rebounds, 5.0, 0.1974749904657985, 406.0*, 405.0*, 406.0*, 405.0*, 410.0*, 
+Jrue Holiday U*rebounds, 5.0, 0.3804676504473664, 161.0*, 175.0*, 164.0*, 160.0*, 155.0*, 
+Jrue Holiday O*rebast, 9.5, 0.5374005839122118, , -110, -120, -115, -120, 
+Jrue Holiday U*rebast, 9.5, 0.5242664688363492, , -110, -106, -115, -110, 
+Jrue Holiday O*threes, 1.5, 0.5882854692444756, -139, -130, -142, -155, -150, 
+Jrue Holiday U*threes, 1.5, 0.47318520511726775, 105, 110, 112, 115, 115, 
+Jrue Holiday O*steals, 1.5, 0.46915553722133413, 105, , 120, 115, , 
+Jrue Holiday U*steals, 1.5, 0.5985774360041076, -139, , -154, -155, , 
+Jrue Holiday O*stlblk, 2.5, 0.43478260869565216, , , , 130, , 
+Jrue Holiday U*stlblk, 2.5, 0.6226415094339622, , , , -165, , 
+Al Horford O*points, 9.5, 0.47408093521368916, 417.0*, -120, -113, -120, -125, 
+Al Horford U*points, 9.5, 0.48019384764414863, 199.0*, 100, -113, -110, -105, 
+Al Horford O*rebounds, 8.0, 0.5652945083400592, 380.0*, -404.0*, -400.0*, -412.0*, 372.0*, 
+Al Horford U*rebounds, 8.0, 0.49283425850558754, 378.0*, -142.0*, -154.0*, -152.0*, 118.0*, 
+Al Horford O*rebast, 10.5, 0.5638521947160391, , -120, -128, -130, -140, 
+Al Horford U*rebast, 10.5, 0.5, , 100, 100, -105, 105, 
+Al Horford O*threes, 1.5, 0.5771414223588136, -122, -125, -130, -150, -160, 
+Al Horford U*threes, 1.5, 0.487024282842735, -109, 105, 102, 110, 120, 
+Al Horford O*ptsreb, 17.5, 0.5097799753763057, , -120, -118, -125, 152.0*, 
+Al Horford U*ptsreb, 17.5, 0.4906150934851523, , 100, -108, -105, 132.0*, 
+Al Horford O*steals, 0.5, 0.6, , , , -150, , 
+Al Horford U*steals, 0.5, 0.46511627906976744, , , , 115, , 
+Al Horford O*blocks, 0.5, 0.5938375350140056, , , -138, -155, , 
+Al Horford U*blocks, 0.5, 0.4729427549194991, , , 108, 115, , 
+Al Horford O*stlblk, 1.5, 0.5348837209302325, , , , -115, , 
+Al Horford U*stlblk, 1.5, 0.5348837209302325, , , , -115, , 
+Caleb Martin O*points, 12.5, 0.45873845251629736, 394.0*, -105, -104, -120, -110, 
+Caleb Martin U*points, 12.5, 0.508142277297724, 166.0*, -115, -122, -115, -120, 
+Caleb Martin O*threes, 1.5, 0.5886724293787664, -143, -142, -136, -150, -145, 
+Caleb Martin U*threes, 1.5, 0.472876178089839, 107, 120, 106, 115, 110, 
+Caleb Martin O*steals, 0.5, 0.623868778280543, , , -172, -160, , 
+Caleb Martin U*steals, 0.5, 0.44094794094794093, , , 134, 120, , 
+Caleb Martin O*stlblk, 1.5, 0.4444444444444444, , , , 125, , 
+Caleb Martin U*stlblk, 1.5, 0.6226415094339622, , , , -165, , 
+Caleb Martin O*turnovers, 1.5, 0.45454545454545453, , , , 120, , 
+Caleb Martin U*turnovers, 1.5, 0.6153846153846154, , , , -160, , 
+Haywood Highsmith O*points, 6.5, 0.4779986139477126, 474.0*, -130, -122, -120, -125, 
+Haywood Highsmith U*points, 6.5, 0.46187107307178543, 248.0*, 110, -104, -110, -105, 
+Payton Pritchard O*points, 6.5, 0.5153296659927018, , -108, -106, -105, , 
+Payton Pritchard U*points, 6.5, 0.5431039959341846, , -112, -120, -125, , 
+Sam Hauser O*points, 6.0, 0.24681144335456523, , 383.0*, 170.0*, 388.0*, 388.0*, 
+Sam Hauser U*points, 6.0, 0.39341094368555285, , 163.0*, 170.0*, 143.0*, 143.0*, 
+Nikola Jovic O*points, 8.5, 0.4606218666541072, 210.0*, -118, 214.0*, -125, -130, 
+Nikola Jovic U*points, 8.5, 0.4087325400243162, 430.0*, -102, 196.0*, -105, 100, 
+Delon Wright O*points, 5.5, 0.5180381633870006, , , -108, 100, -115, 
+Delon Wright U*points, 5.5, 0.5502120699021135, , , -118, -135, -115, 
+Haywood Highsmith O*rebounds, 4.0, 0.8209754552803442, -457.0*, -455.0*, -447.0*, -480.0*, -455.0*, 
+Haywood Highsmith U*rebounds, 4.0, 0.7347673746935897, -428.0*, -215.0*, -429.0*, -210.0*, -225.0*, 
+Nikola Jovic O*rebounds, 5.5, 0.49515466150904236, 107, 102, 106, -105, 100, 
+Nikola Jovic U*rebounds, 5.5, 0.5682635518525647, -141, -122, -136, -130, -130, 
+Delon Wright O*rebounds, 3.5, 0.5259746713235085, , -108, , -110, -115, 
+Delon Wright U*rebounds, 3.5, 0.5362133843924103, , -112, , -120, -115, 
+Payton Pritchard O*rebast, 5.5, 0.574468085106383, , , , -135, , 
+Payton Pritchard U*rebast, 5.5, 0.5, , , , 100, , 
+Delon Wright O*rebast, 6.0, 0.19980518495452987, , , , 398.0*, 403.0*, 
+Delon Wright U*rebast, 6.0, 0.4388075213148829, , , , 133.0*, 123.0*, 
+Sam Hauser O*threes, 1.5, 0.6126683879658734, , -162, -172, -150, -150, 
+Sam Hauser U*threes, 1.5, 0.44532794976232104, , 136, 134, 115, 115, 
+Nikola Jovic O*threes, 1.5, 0.5469415293561152, -120, -112, -113, -130, -130, 
+Nikola Jovic U*threes, 1.5, 0.515609817589621, -112, -108, -113, 100, 100, 
+Haywood Highsmith O*threes, 1.5, 0.35379682126591694, 190, 190, 190, 180, 165, 
+Haywood Highsmith U*threes, 1.5, 0.6313663737392551, 195, -230, -250, -250, -225, 
+Payton Pritchard O*threes, 1.5, 0.40408163265306124, , 150, , 145, , 
+Payton Pritchard U*threes, 1.5, 0.6490147783251232, , -180, , -190, , 
+Delon Wright O*threes, 0.5, 0.5928711980660033, , -142, , -150, -145, 
+Delon Wright U*threes, 0.5, 0.4689754689754689, , 120, , 110, 110, 
+Delon Wright O*ptsast, 7.5, 0.37931507386074215, , , , -135, 443.0*, 
+Delon Wright U*ptsast, 7.5, 0.4236111111111111, , , , 100, 188.0*, 
+Delon Wright O*ptsreb, 9.0, 0.21929824561403508, , , , 356.0*, 356.0*, 
+Delon Wright U*ptsreb, 9.0, 0.44748328194450004, , , , 121.0*, 126.0*, 
+Haywood Highsmith O*steals, 0.5, 0.5959183673469388, , , -150, -145, , 
+Haywood Highsmith U*steals, 0.5, 0.47326023718952787, , , 118, 105, , 
+Nikola Jovic O*steals, 0.5, 0.6168526130358192, , , -162, -160, , 
+Nikola Jovic U*steals, 0.5, 0.44851166532582465, , , 126, 120, , 
+Payton Pritchard O*steals, 0.5, 0.43478260869565216, , , , 130, , 
+Payton Pritchard U*steals, 0.5, 0.6363636363636364, , , , -175, , 
+Sam Hauser O*steals, 0.5, 0.45454545454545453, , , , 120, , 
+Sam Hauser U*steals, 0.5, 0.6153846153846154, , , , -160, , 
+Delon Wright O*steals, 0.5, 0.6666666666666666, , , , -200, , 
+Delon Wright U*steals, 0.5, 0.40816326530612246, , , , 145, , 
+Sam Hauser O*blocks, 0.5, 0.24390243902439024, , , , 310, , 
+Haywood Highsmith O*blocks, 0.5, 0.35714285714285715, , , , 180, , 
+Haywood Highsmith U*blocks, 0.5, 0.7142857142857143, , , , -250, , 
+Haywood Highsmith O*stlblk, 1.5, 0.37735849056603776, , , , 165, , 
+Haywood Highsmith U*stlblk, 1.5, 0.6923076923076923, , , , -225, , 
+Nikola Jovic O*blocks, 0.5, 0.37037037037037035, , , , 170, , 
+Nikola Jovic U*blocks, 0.5, 0.7142857142857143, , , , -250, , 
+Sam Hauser O*stlblk, 0.5, 0.574468085106383, , , , -135, , 
+Sam Hauser U*stlblk, 0.5, 0.5, , , , 100, , 
+Payton Pritchard O*stlblk, 0.5, 0.47619047619047616, , , , 110, , 
+Payton Pritchard U*stlblk, 0.5, 0.6, , , , -150, , 
+Nikola Jovic O*stlblk, 1.5, 0.40816326530612246, , , , 145, , 
+Nikola Jovic U*stlblk, 1.5, 0.6666666666666666, , , , -200, , 
+Nikola Jovic O*turnovers, 1.5, 0.37037037037037035, , , , 170, , 
+Nikola Jovic U*turnovers, 1.5, 0.6923076923076923, , , , -225, , 
+Delon Wright O*turnovers, 0.5, 0.425531914893617, , , , 135, , 
+Delon Wright U*turnovers, 0.5, 0.6491228070175439, , , , -185, , 
+Delon Wright O*blocks, 0.5, 0.39215686274509803, , , , 155, , 
+Delon Wright U*blocks, 0.5, 0.6774193548387096, , , , -210, , 
+Delon Wright O*stlblk, 1.5, 0.46511627906976744, , , , 115, , 
+Delon Wright U*stlblk, 1.5, 0.6, , , , -150, , 
+Luka Doncic O*points, 39.5, 0.8211600298058613, -455.0*, -454.0*, -458.0*, -462.0*, -467.0*, 
+Luka Doncic U*points, 39.5, 0.8239306668519235, -459.0*, -470.0*, -472.0*, -472.0*, -467.0*, 
+Luka Doncic O*assists, 9.0, 0.2156179378256479, 363.0*, 366.0*, 368.0*, 361.0*, 361.0*, 
+Luka Doncic U*assists, 9.0, 0.4087187459116993, 381.0*, 126.0*, 114.0*, 116.0*, 116.0*, 
+Luka Doncic O*rebounds, 9.5, 0.5299948152239196, -120, -108, -102, -120, -115, 
+Luka Doncic U*rebounds, 9.5, 0.5341705147760435, -112, -112, -125, -110, -115, 
+Luka Doncic O*rebast, 19.0, 0.5044877832567162, , 336.0*, -337.0*, 331.0*, -366.0*, 
+Luka Doncic U*rebast, 19.0, 0.5908170361362853, , -104.0*, -341.0*, -114.0*, -121.0*, 
+Luka Doncic O*threes, 4.0, 0.7010264163337857, 450.0*, -480.0*, -505.0*, -490.0*, -490.0*, 
+Luka Doncic U*threes, 4.0, 0.5640928479891795, 465.0*, -195.0*, -185.0*, -200.0*, -200.0*, 
+Luka Doncic O*steals, 1.5, 0.45464566297899633, 116, , 124, 120, , 
+Luka Doncic U*steals, 1.5, 0.611876951138237, -155, , -158, -160, , 
+Luka Doncic O*stlblk, 1.5, 0.6363636363636364, , , , -175, , 
+Luka Doncic U*stlblk, 1.5, 0.43478260869565216, , , , 130, , 
+Paul George O*points, 24.5, 0.5273796177774392, -106, -105, -108, -120, -120, 
+Paul George U*points, 24.5, 0.528450106380258, -103, -115, -118, -115, -110, 
+Paul George O*assists, 4.5, 0.4925925925925926, 100, 105, 116, -105, 100, 
+Paul George U*assists, 4.5, 0.5684136426410451, -132, -125, -148, -125, -130, 
+Paul George O*rebounds, 5.5, 0.5035011404254138, 522.0*, -155, -130, -145, -145, 
+Paul George U*rebounds, 5.5, 0.41045621864759685, 488.0*, 130, 102, 110, 110, 
+Paul George O*rebast, 10.5, 0.5154748304500779, , -108, 102, -110, -110, 
+Paul George U*rebast, 10.5, 0.5461070922514728, , -112, -130, -120, -120, 
+Paul George O*threes, 3.5, 0.48972793409766285, 110, 114, 108, -105, -105, 
+Paul George U*threes, 3.5, 0.5743694316575565, -148, -135, -138, -130, -125, 
+Paul George O*ptsast, 29.5, 0.6044291655134177, , -105, -349.0*, , -110, 
+Paul George U*ptsast, 29.5, 0.6185397217537275, , -115, -345.0*, , -120, 
+Paul George O*ptsreb, 30.5, 0.5399571049318591, , -112, -113, -120, -125, 
+Paul George U*ptsreb, 30.5, 0.524206511009276, , -108, -113, -115, -105, 
+Paul George O*blocks, 0.5, 0.563946097126875, -130, , -128, -130, , 
+Paul George U*blocks, 0.5, 0.5024630541871922, -103, , 100, 100, , 
+Paul George O*turnovers, 2.5, 0.5918367346938775, , , , -145, , 
+Paul George U*turnovers, 2.5, 0.47619047619047616, , , , 110, , 
+Paul George O*stlblk, 2.5, 0.45454545454545453, , , , 120, , 
+Paul George U*stlblk, 2.5, 0.6153846153846154, , , , -160, , 
+James Harden O*points, 30.5, 0.8385704807539899, -358.0*, -564.0*, -617.0*, -572.0*, -567.0*, 
+James Harden U*points, 18.5, 0.25703420745867434, 306.0*, 298.0*, 258.0*, 296.0*, 291.0*, 
+James Harden O*assists, 8.0, 0.5649747054883524, 370.0*, -398.0*, 384.0*, -408.0*, -408.0*, 
+James Harden U*assists, 8.0, 0.49852838515090764, 390.0*, -148.0*, 106.0*, -152.0*, -152.0*, 
+James Harden O*rebounds, 5.5, 0.5522849581325244, -117, -118, -118, -135, -130, 
+James Harden U*rebounds, 5.5, 0.5113783089308213, -114, -102, -108, 100, 100, 
+James Harden O*rebast, 13.5, 0.5628019323671497, , -125, -130, -130, -130, 
+James Harden U*rebast, 13.5, 0.4957135957498189, , 105, 102, 100, 100, 
+James Harden O*threes, 3.5, 0.42213461170649247, 143, 140, 132, 130, 140, 
+James Harden U*threes, 3.5, 0.5916884948239931, 135, -166, -170, -175, -180, 
+James Harden O*ptsast, 30.5, 0.6020165441829092, , -105, -358.0*, , -105, 
+James Harden U*ptsast, 30.5, 0.6201847396715079, , -115, -335.0*, , -125, 
+James Harden O*turnovers, 2.5, 0.6, , , , -150, , 
+James Harden U*turnovers, 2.5, 0.46511627906976744, , , , 115, , 
+James Harden O*stlblk, 1.5, 0.6153846153846154, , , , -160, , 
+James Harden U*stlblk, 1.5, 0.45454545454545453, , , , 120, , 
+James Harden O*blocks, 0.5, 0.5850574778337888, -141, , -142, -140, , 
+James Harden U*blocks, 0.5, 0.4808649262319804, 107, , 112, 105, , 
+Kyrie Irving O*points, 29.5, 0.7857477003513923, -200.0*, -454.0*, -410.0*, -451.0*, -456.0*, 
+Kyrie Irving U*points, 29.5, 0.7829429123805449, -192.0*, -438.0*, -420.0*, -451.0*, -446.0*, 
+Kyrie Irving O*rebast, 10.0, 0.21967299799107579, , 360.0*, 356.0*, 355.0*, 350.0*, 
+Kyrie Irving U*rebast, 10.0, 0.4631427762268884, , 120.0*, 114.0*, 110.0*, 120.0*, 
+Kyrie Irving O*threes, 3.5, 0.4900577276570611, -103, 105, 114, 100, 105, 
+Kyrie Irving U*threes, 3.5, 0.574414060051794, -130, -125, -146, -135, -140, 
+Russell Westbrook O*points, 8.0, 0.32351516539016534, 150.0*, 362.0*, 156.0*, 368.0*, 152.0*, 
+Russell Westbrook U*points, 8.0, 0.42066860248678434, 142.0*, 142.0*, 142.0*, 122.0*, 142.0*, 
+Russell Westbrook O*rebounds, 3.5, 0.5621553923417636, -139, -122, -132, -120, -130, 
+Russell Westbrook U*rebounds, 3.5, 0.5006349994266783, 105, 102, 106, -115, 100, 
+Russell Westbrook O*rebast, 7.0, 0.4069326883972193, , , 375.0*, -406.0*, 381.0*, 
+Russell Westbrook U*rebast, 7.0, 0.4972947426367662, , , 139.0*, -171.0*, 126.0*, 
+Russell Westbrook O*threes, 0.5, 0.5120015485869144, , 100, , -105, -110, 
+Russell Westbrook U*threes, 0.5, 0.5488215488215488, , -120, , -125, -120, 
+Russell Westbrook O*steals, 1.5, 0.3660459037817529, 175, , 180, 165, , 
+Russell Westbrook U*steals, 1.5, 0.699894194187434, -240, , -235, -225, , 
+Russell Westbrook O*blocks, 0.5, 0.3333333333333333, , , , 200, , 
+Russell Westbrook U*blocks, 0.5, 0.7333333333333333, , , , -275, , 
+Russell Westbrook O*turnovers, 1.5, 0.6, , , , -150, , 
+Russell Westbrook U*turnovers, 1.5, 0.47619047619047616, , , , 110, , 
+Russell Westbrook O*stlblk, 1.5, 0.5, , , , 100, , 
+Russell Westbrook U*stlblk, 1.5, 0.574468085106383, , , , -135, , 
+Norman Powell O*points, 11.5, 0.46663908200868515, , -118, 389.0*, -130, -125, 
+Norman Powell U*points, 11.5, 0.4765626688416208, , -102, 157.0*, 100, -105, 
+Daniel Gafford O*points, 7.5, 0.5423172562694947, -115, -118, -111, -135, -115, 
+Daniel Gafford U*points, 7.5, 0.5149435873819941, 100, -102, -115, 100, -115, 
+Daniel Gafford O*rebounds, 5.0, 0.3174859182492771, 418.0*, 424.0*, 418.0*, 420.0*, -450.0*, 
+Daniel Gafford U*rebounds, 5.0, 0.4085581428864164, 430.0*, 152.0*, 150.0*, 145.0*, -185.0*, 
+Norman Powell O*threes, 2.0, 0.8618197278911565, , -620.0*, -620.0*, -635.0*, -620.0*, 
+Norman Powell U*threes, 2.0, 0.7591521043766558, , -308.0*, -318.0*, -315.0*, -320.0*, 
+Norman Powell O*steals, 0.5, 0.5555555555555556, , , , -125, , 
+Norman Powell U*steals, 0.5, 0.5238095238095238, , , , -110, , 
+Norman Powell O*blocks, 0.5, 0.21052631578947367, , , , 375, , 
+Norman Powell O*stlblk, 0.5, 0.6363636363636364, , , , -175, , 
+Norman Powell U*stlblk, 0.5, 0.43478260869565216, , , , 130, , 
+Josh Green O*points, 4.5, 0.5073330145066156, , , -104, 100, -105, 
+Josh Green U*points, 4.5, 0.559857730070496, , , -122, -135, -125, 
+Josh Green O*threes, 0.5, 0.5222832722832723, , -108, , -110, -110, 
+Josh Green U*threes, 0.5, 0.5397369925671812, , -112, , -120, -120, 
+Josh Green O*steals, 0.5, 0.5652173913043478, , , , -130, , 
+Josh Green U*steals, 0.5, 0.5121951219512195, , , , -105, , 
+Josh Green O*blocks, 0.5, 0.2222222222222222, , , , 350, , 
+Josh Green O*stlblk, 0.5, 0.6491228070175439, , , , -185, , 
+Josh Green U*stlblk, 0.5, 0.425531914893617, , , , 135, , 
+Ivica Zubac O*points, 14.5, 0.5695597932217513, -105, 100, -399.0*, -110, -105, 
+Ivica Zubac U*points, 14.5, 0.5461296815177858, 118, -120, -167.0*, -120, -125, 
+Ivica Zubac O*rebounds, 10.5, 0.5450848219301202, -115, -115, -115, -130, -125, 
+Ivica Zubac U*rebounds, 10.5, 0.5195070874989584, -115, -105, -111, -105, -105, 
+Ivica Zubac O*rebast, 12.0, 0.22288874370599143, , 352.0*, , 347.0*, 347.0*, 
+Ivica Zubac U*rebast, 12.0, 0.4872657077028458, , 112.0*, , 102.0*, 102.0*, 
+Ivica Zubac O*ptsreb, 25.5, 0.5880442124498969, , -108, -367.0*, -115, -105, 
+Ivica Zubac U*ptsreb, 25.5, 0.5527254864903874, , -112, -139.0*, -120, -125, 
+Ivica Zubac O*blocks, 1.5, 0.37362106309820575, 165, , 168, 170, , 
+Ivica Zubac U*blocks, 1.5, 0.6922591297591297, -230, , -220, -225, , 
+Ivica Zubac O*stlblk, 2.0, 0.8620689655172413, , , , -625.0*, , 
+Ivica Zubac U*stlblk, 2.0, 0.7590361445783133, , , , -315.0*, , 
+Terance Mann O*points, 9.5, 0.5163208466935898, -104, -108, -102, -110, -110, 
+Terance Mann U*points, 9.5, 0.5292929292929294, 112, -112, -125, -120, -120, 
+Amir Coffey O*points, 5.5, 0.5438421776449945, , , -113, -125, -120, 
+Amir Coffey U*points, 5.5, 0.5221736925618753, , , -113, -105, -110, 
+Mason Plumlee O*points, 3.5, 0.5664667666166916, , , -132, -130, -130, 
+Mason Plumlee U*points, 3.5, 0.49673202614379086, , , 104, 100, 100, 
+Terance Mann O*rebounds, 4.0, 0.5681991232648255, -473.0*, 455.0*, -465.0*, 450.0*, -490.0*, 
+Terance Mann U*rebounds, 4.0, 0.5573463573463574, -215.0*, 170.0*, -215.0*, 160.0*, -200.0*, 
+Terance Mann O*rebast, 6.0, 0.8059725086945394, , , , -423.0*, -408.0*, 
+Terance Mann U*rebast, 6.0, 0.7176848684986437, , , , -178.0*, -388.0*, 
+Amir Coffey O*threes, 0.5, 0.6695918949771689, , -192, -220, -200, -200, 
+Amir Coffey U*threes, 0.5, 0.38943742824339844, , 160, 168, 150, 150, 
+Terance Mann O*threes, 1.5, 0.401200358083475, 160, 142, 150, 150, 145, 
+Terance Mann U*threes, 1.5, 0.6597665311335262, -220, -170, -194, -200, -190, 
+Mason Plumlee O*steals, 0.5, 0.3333333333333333, , , , 200, , 
+Mason Plumlee U*steals, 0.5, 0.7333333333333333, , , , -275, , 
+Amir Coffey O*steals, 0.5, 0.5121951219512195, , , , -105, , 
+Amir Coffey U*steals, 0.5, 0.5555555555555556, , , , -125, , 
+Terance Mann O*steals, 0.5, 0.5833333333333334, , , , -140, , 
+Terance Mann U*steals, 0.5, 0.4878048780487805, , , , 105, , 
+Mason Plumlee O*blocks, 0.5, 0.38461538461538464, , , , 160, , 
+Mason Plumlee U*blocks, 0.5, 0.6923076923076923, , , , -225, , 
+Mason Plumlee O*stlblk, 0.5, 0.574468085106383, , , , -135, , 
+Mason Plumlee U*stlblk, 0.5, 0.5, , , , 100, , 
+Terance Mann O*blocks, 0.5, 0.22727272727272727, , , , 340, , 
+Terance Mann O*stlblk, 0.5, 0.6666666666666666, , , , -200, , 
+Terance Mann U*stlblk, 0.5, 0.40816326530612246, , , , 145, , 
+Amir Coffey O*blocks, 0.5, 0.2702702702702703, , , , 270, , 
+Amir Coffey U*blocks, 0.5, 0.8, , , , -400, , 
+Amir Coffey O*stlblk, 0.5, 0.6363636363636364, , , , -175, , 
+Amir Coffey U*stlblk, 0.5, 0.43478260869565216, , , , 130, , 
+Luka Doncic O*ptsast, 42.5, 0.5347891462755283, , -112, -113, -120, -115, 
+Luka Doncic U*ptsast, 42.5, 0.5271101114738521, , -108, -113, -110, -115, 
+Luka Doncic O*ptsreb, 42.5, 0.5247533499454202, , -118, -115, -125, 114.0*, 
+Luka Doncic U*ptsreb, 42.5, 0.5083520115357494, , -102, -111, -105, 104.0*, 
+Luka Doncic O*blocks, 0.5, 0.5048543689320389, -110, , -106, 110, , 
+Luka Doncic U*blocks, 0.5, 0.5636363636363636, -120, , -120, -150, , 
+Jayson Tatum O*ptsast, 32.5, 0.5347159300647673, , -110, -115, , -120, 
+Jayson Tatum U*ptsast, 32.5, 0.5245617994433159, , -110, -111, , -110, 
+Jayson Tatum O*ptsreb, 37.5, 0.5258452218096541, , -110, -104, -115, -115, 
+Jayson Tatum U*ptsreb, 37.5, 0.5357816288048847, , -110, -122, -115, -115, 
+Paul George O*steals, 1.5, 0.497552768189301, 102, , -104, 105, , 
+Paul George U*steals, 1.5, 0.572552490228035, -136, , -122, -145, , 
+Jaylen Brown O*blocks, 0.5, 0.46511627906976744, , , , 115, , 
+Jaylen Brown U*blocks, 0.5, 0.6, , , , -150, , 
+Jaylen Brown O*turnovers, 2.5, 0.5454545454545454, , , , -120, , 
+Jaylen Brown U*turnovers, 2.5, 0.5238095238095238, , , , -110, , 
+James Harden O*ptsreb, 28.5, 0.6476545406587058, , -102, -353.0*, -110, -360.0*, 
+James Harden U*ptsreb, 28.5, 0.6609583994102601, , -118, -343.0*, -125, -340.0*, 
+James Harden O*steals, 1.5, 0.35886818495514144, 180, , 176, 180, , 
+James Harden U*steals, 1.5, 0.7085137085137085, -250, , -230, -250, , 
+Derrick White O*ptsreb, 20.5, 0.5442945564025146, , -118, -115, -125, -120, 
+Derrick White U*ptsreb, 20.5, 0.5167553728802872, , -102, -111, -105, -110, 
+Derrick White O*blocks, 0.5, 0.6687493945558461, -200, , -196, -210, , 
+Derrick White U*blocks, 0.5, 0.4000170677590032, 148, , 152, 150, , 
+Kyrie Irving O*ptsast, 30.5, 0.5102072532254314, , -110, 129.0*, -115, -120, 
+Kyrie Irving U*ptsast, 30.5, 0.5141091044595949, , -110, 111.0*, -115, -110, 
+Kyrie Irving O*ptsreb, 30.5, 0.5051679586563308, , -118, 115.0*, -125, 118.0*, 
+Kyrie Irving U*ptsreb, 30.5, 0.48007641444386107, , -102, 125.0*, -105, 118.0*, 
+Kyrie Irving O*steals, 1.5, 0.5474315015599419, -118, , -120, -125, , 
+Kyrie Irving U*steals, 1.5, 0.5190915535574062, -113, , -106, -105, , 
+Kyrie Irving O*blocks, 0.5, 0.37037037037037035, , , , 170, , 
+Kyrie Irving U*blocks, 0.5, 0.7142857142857143, , , , -250, , 
+Kyrie Irving O*stlblk, 2.0, 0.8666666666666667, , , , -650.0*, , 
+Kyrie Irving U*stlblk, 2.0, 0.7530864197530864, , , , -305.0*, , 
+Kyrie Irving O*turnovers, 2.5, 0.5, , , , 100, , 
+Kyrie Irving U*turnovers, 2.5, 0.5652173913043478, , , , -130, , 
+Jrue Holiday O*assists, 4.0, 0.18609072827517542, 435.0*, 445.0*, 437.0*, 435.0*, 435.0*, 
+Jrue Holiday U*assists, 4.0, 0.3577007664045717, 177.0*, 183.0*, 183.0*, 175.0*, 180.0*, 
+Jrue Holiday O*ptsast, 15.5, 0.5541378699273436, , -120, -128, , -125, 
+Jrue Holiday U*ptsast, 15.5, 0.5040650406504065, , 100, 100, , -105, 
+Jrue Holiday O*ptsreb, 16.5, 0.5579315012953456, , -122, -128, -130, -125, 
+Jrue Holiday U*ptsreb, 16.5, 0.5048599372132335, , 102, 100, -105, -105, 
+Jrue Holiday O*turnovers, 1.5, 0.5555555555555556, , , , -125, , 
+Jrue Holiday U*turnovers, 1.5, 0.5121951219512195, , , , -105, , 
+Jrue Holiday O*blocks, 0.5, 0.6, , , , -150, , 
+Jrue Holiday U*blocks, 0.5, 0.47619047619047616, , , , 110, , 
+Daniel Gafford O*steals, 0.5, 0.5121951219512195, , , , -105, , 
+Daniel Gafford U*steals, 0.5, 0.5555555555555556, , , , -125, , 
+Daniel Gafford O*blocks, 1.5, 0.40414227706586514, 145, , 158, 140, , 
+Daniel Gafford U*blocks, 1.5, 0.6627735034955432, -195, , -205, -190, , 
+Daniel Gafford O*stlblk, 1.5, 0.6153846153846154, , , , -160, , 
+Daniel Gafford U*stlblk, 1.5, 0.45454545454545453, , , , 120, , 
+Caleb Martin O*blocks, 0.5, 0.425531914893617, , , , 135, , 
+Caleb Martin U*blocks, 0.5, 0.6363636363636364, , , , -175, , 
+Ivica Zubac O*turnovers, 1.5, 0.574468085106383, , , , -135, , 
+Ivica Zubac U*turnovers, 1.5, 0.5, , , , 100, , 
